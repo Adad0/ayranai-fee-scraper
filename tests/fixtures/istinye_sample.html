@@ -1,0 +1,40 @@
+<!-- Realistic fixture approximating İstinye University's actual tuition table
+     structure as observed 2026-07 at international.istinye.edu.tr. Built from
+     real content (program names, fees, structure) fetched by hand — not
+     synthetic placeholder data. Used to unit-test the parser without a live
+     network call (the sandbox this was built in cannot reach istinye.edu.tr;
+     the real integration test runs in CI/production against the live URL). -->
+<html>
+<body>
+<table>
+<thead>
+<tr><th>Name of Program</th><th>Duration (Year)</th><th>Quota</th><th>Medium of Instruction</th><th>Installment Payment (Annual)</th><th>Full Payment (Annual)</th><th>Campus</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="7"><strong>Faculty of Medicine</strong></td></tr>
+<tr><td>Medicine</td><td>6</td><td>84</td><td>Turkish</td><td>23.000 $</td><td>21.850 $</td><td>Vadi İstanbul</td></tr>
+<tr><td>Medicine</td><td>6</td><td>85</td><td>English</td><td>29.000 $</td><td>27.550 $</td><td>Vadi İstanbul</td></tr>
+<tr><td colspan="7"><strong>Faculty of Dentistry</strong></td></tr>
+<tr><td>Dentistry</td><td>5</td><td>45</td><td>Turkish</td><td>20.000 $</td><td>19.000 $</td><td>Vadi İstanbul</td></tr>
+<tr><td>Dentistry</td><td>5</td><td>60</td><td>English</td><td>24.500 $</td><td>23.275 $</td><td>Vadi İstanbul</td></tr>
+<tr><td colspan="7"><strong>Faculty of Engineering and Natural Sciences</strong></td></tr>
+<tr><td>Software Engineering</td><td>4</td><td>50</td><td>Turkish</td><td>8.000 $</td><td></td><td>Vadi İstanbul</td></tr>
+<tr><td>Software Engineering</td><td>4</td><td>60</td><td>English</td><td>8.000 $</td><td></td><td>Vadi İstanbul</td></tr>
+<tr><td>Computer Engineering</td><td>4</td><td>70</td><td>English</td><td>8.000 $</td><td></td><td>Vadi İstanbul</td></tr>
+<tr><td>Management Information Systems</td><td>4</td><td>60</td><td>English</td><td>8.000 $</td><td></td><td>Vadi İstanbul</td></tr>
+<tr><td colspan="7"><strong>Faculty of Economics and Administrative Sciences</strong></td></tr>
+<tr><td>Business Administration</td><td>4</td><td>100</td><td>English</td><td>8.000 $</td><td></td><td>Vadi İstanbul</td></tr>
+<tr><td>Architecture</td><td>4</td><td>-</td><td>Turkish</td><td>-</td><td></td><td>Vadi İstanbul</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th>Program</th><th>Maximum Duration for Coursework</th><th>Maximum Program Duration</th><th>Qualifying Exam</th></tr>
+</thead>
+<tbody>
+<tr><td>PhD Programs</td><td>4 semesters</td><td>12 semesters</td><td>By the end of the 5th semester</td></tr>
+</tbody>
+</table>
+</body>
+</html>

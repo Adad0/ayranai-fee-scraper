@@ -1,0 +1,40 @@
+name: Monthly Fee Scrape
+
+# Runs on the 1st of every month. Also runnable manually (workflow_dispatch)
+# for testing or ad-hoc re-checks. This does NOT touch AyranAI's production
+# database — it only produces a review report as a commit + PR-able diff for
+# a human to read. See ARCHITECTURE.md for why this is deliberately
+# human-in-the-loop rather than auto-applying.
+on:
+  schedule:
+    - cron: '0 6 1 * *'  # 06:00 UTC on the 1st of each month
+  workflow_dispatch: {}
+
+jobs:
+  scrape-and-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run test suite first (fail fast if a parser is broken)
+        run: pytest tests/ -v
+
+      - name: Run the scrape
+        run: python run_scrape.py
+
+      - name: Commit updated snapshot + review report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: monthly fee scrape $(date -u +%Y-%m-%d)"
+          git push
