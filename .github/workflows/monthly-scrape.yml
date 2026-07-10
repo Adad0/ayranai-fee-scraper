@@ -10,6 +10,14 @@ on:
     - cron: '0 6 1 * *'  # 06:00 UTC on the 1st of each month
   workflow_dispatch: {}
 
+# Explicitly grants GITHUB_TOKEN write access for the "Commit updated
+# snapshot + review report" step's `git push`. Needed regardless of the
+# repo-level Settings -> Actions -> "Read and write permissions" default —
+# that setting alone was still hitting a 403; declaring it here at the
+# workflow level is the more robust fix.
+permissions:
+  contents: write
+
 jobs:
   scrape-and-report:
     runs-on: ubuntu-latest
