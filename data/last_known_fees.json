@@ -1,1 +1,1586 @@
-{}
+{
+  "bahcesehir::Artificial Intelligence Engineering::any": {
+    "fee_usd": 12000.0,
+    "raw_text": "Artificial Intelligence Engineering 4 Years $12,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786085+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Conservatory::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "Conservatory 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786204+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Gastronomy & Culinary Arts::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "Gastronomy & Culinary Arts 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786192+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Master's Programs (Non-Thesis)::any": {
+    "fee_usd": 12000.0,
+    "raw_text": "Master's Programs (Non-Thesis) 1.5 Years $12,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786003+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Master's Programs (Thesis)::any": {
+    "fee_usd": 14000.0,
+    "raw_text": "Master's Programs (Thesis) 2 Years $14,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.785985+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Master's in Clinical Psychology (Thesis)::any": {
+    "fee_usd": 18000.0,
+    "raw_text": "Master's in Clinical Psychology (Thesis) 2 Years $18,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.785968+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Master’s in Executive MBA::any": {
+    "fee_usd": 18000.0,
+    "raw_text": "Master’s in Executive MBA 2 Years $18,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.785950+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Online Master's Degree Programs::any": {
+    "fee_usd": 7000.0,
+    "raw_text": "Online Master's Degree Programs 1.5 Years $7,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.785910+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::PhD Programs::any": {
+    "fee_usd": 40000.0,
+    "raw_text": "PhD Programs 4 Years $40,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786017+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Pilotage::any": {
+    "fee_usd": 9000.0,
+    "raw_text": "Pilotage 4 Years $9,000 + €22,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786166+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Architecture & Design::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "School of Architecture & Design 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786125+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Communication::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "School of Communication 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786138+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Dentistry::any": {
+    "fee_usd": 24000.0,
+    "raw_text": "School of Dentistry 5 Years $24,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786046+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Economics, Administrative and Social Sciences::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "School of Economics, Administrative and Social Sciences 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786112+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Educational Sciences::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "School of Educational Sciences 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786150+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Engineering & Natural Sciences::any": {
+    "fee_usd": 9000.0,
+    "raw_text": "School of Engineering & Natural Sciences 4 Years $9,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786098+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Health Sciences::any": {
+    "fee_usd": 8500.0,
+    "raw_text": "School of Health Sciences 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786071+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Law::any": {
+    "fee_usd": 10000.0,
+    "raw_text": "School of Law 4 Years $10,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786179+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Medicine::any": {
+    "fee_usd": 28000.0,
+    "raw_text": "School of Medicine 6 Years $28,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786030+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::School of Pharmacy::any": {
+    "fee_usd": 15000.0,
+    "raw_text": "School of Pharmacy 5 Years $15,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786058+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "bahcesehir::Vocational School of Health Sciences::any": {
+    "fee_usd": 3500.0,
+    "raw_text": "Vocational School of Health Sciences 2 Years $3,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
+    "scraped_at": "2026-07-10T08:59:46.786217+00:00",
+    "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
+  },
+  "istinye::Anatomy (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Anatomy (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081893+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Architectural Design (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Architectural Design (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082629+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Architectural Design (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Architectural Design (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082604+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Architecture (PhD)::Turkish": {
+    "fee_usd": 12500.0,
+    "raw_text": "Architecture (PhD) | 4 | 15 | Turkish | 12.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082962+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Architecture::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Architecture | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079339+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Artificial Intelligence Engineering (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Artificial Intelligence Engineering (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082749+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Artificial Intelligence Engineering (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Artificial Intelligence Engineering (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082724+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Biomedical Engineering::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Biomedical Engineering | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079644+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration (PhD)::English": {
+    "fee_usd": 12500.0,
+    "raw_text": "Business Administration (PhD) | 4 | 15 | English | 12.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081168+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Business Administration (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081249+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 1 | 30 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080577+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080524+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080549+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080497+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Business Administration::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Business Administration | 4 | 100 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079804+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Cancer Biology and Pharmacology (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Cancer Biology and Pharmacology (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081733+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Chemistry (PhD)::English": {
+    "fee_usd": 15000.0,
+    "raw_text": "Chemistry (PhD) | 5 | 15 | English | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.083019+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Chemistry::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Chemistry | 4 | 30 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079721+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Child Development::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Child Development | 4 | 20 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080166+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Cinema and Television (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Cinema and Television (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080862+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Clinical Anatomy (PhD)::Turkish": {
+    "fee_usd": 12500.0,
+    "raw_text": "Clinical Anatomy (PhD) | 4 | 15 | Turkish | 12.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082194+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Clinical Psychology (non-thesis)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Clinical Psychology (non-thesis) | 1 | 30 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080747+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Communication Sciences (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Communication Sciences (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081300+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Computer Engineering::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Computer Engineering | 4 | 70 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079544+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Computer Engineering::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Computer Engineering | 4 | 60 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079568+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Computer Engineering (non-thesis)::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Computer Engineering (non-thesis) | 1 | 30 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082700+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Computer Engineering (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Computer Engineering (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082677+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Cyber Security (non-thesis)::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Cyber Security (non-thesis) | 1 | 30 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081088+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Cyber Security (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Cyber Security (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081064+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Data Science (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Data Science (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081016+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Data Science (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Data Science (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081040+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Data Science (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Data Science (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080992+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Dentistry::English": {
+    "fee_usd": 23275.0,
+    "raw_text": "Dentistry | 5 | 60 | English | 24.500 $ | 23.275 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079031+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Dentistry::Turkish": {
+    "fee_usd": 19000.0,
+    "raw_text": "Dentistry | 5 | 45 | Turkish | 20.000 $ | 19.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079001+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Digital Game Design::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Digital Game Design | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079417+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Economics::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Economics | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079779+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Electrical and Electronics Engineering::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Electrical and Electronics Engineering | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079593+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Electrical-Electronics Engineering (PhD)::Turkish": {
+    "fee_usd": 12500.0,
+    "raw_text": "Electrical-Electronics Engineering (PhD) | 4 | 15 | Turkish | 12.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082987+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Electrical-Electronics Engineering (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Electrical-Electronics Engineering (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082884+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Electrical-Electronics Engineering (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Electrical-Electronics Engineering (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082860+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Engineering Management (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Engineering Management (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082835+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Engineering Management (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Engineering Management (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082800+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::English Interpretation and Translation::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "English Interpretation and Translation | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079243+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::English Language and Literature::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "English Language and Literature | 4 | 30 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079218+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Gastronomy and Culinary Arts (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Gastronomy and Culinary Arts (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080911+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Gastronomy and Culinary Arts (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Gastronomy and Culinary Arts (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080886+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Gastronomy and Culinary Arts::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Gastronomy and Culinary Arts | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079389+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Gastronomy and Culinary Arts::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Gastronomy and Culinary Arts | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079364+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Health Management (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Health Management (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081275+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Health Management (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Health Management (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080625+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Health Management (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Health Management (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080602+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Health Management::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Health Management | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079843+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Histology and Embryology (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Histology and Embryology (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082398+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Industrial Engineering::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Industrial Engineering | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079617+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Interior Architecture (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Interior Architecture (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082653+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Interior Architecture and Environmental Design::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Interior Architecture and Environmental Design | 4 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079295+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::International Relations::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "International Relations | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079904+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::International Trade and Business::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "International Trade and Business | 4 | 80 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079929+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Logistics Management::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Logistics Management | 4 | 40 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080002+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Management Information Systems (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Management Information Systems (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080834+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Management Information Systems::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Management Information Systems | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079978+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Management Information Systems::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Management Information Systems | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079953+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Marketing (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Marketing (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081112+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Mathematics::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Mathematics | 4 | 10 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079697+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Mechanical Engineering::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Mechanical Engineering | 4 | - | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079520+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Medical Biology and Genetics (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Medical Biology and Genetics (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082326+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Medical Biology and Genetics (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Medical Biology and Genetics (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081757+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Medicine::English": {
+    "fee_usd": 27550.0,
+    "raw_text": "Medicine | 6 | 85 | English | 29.000 $ | 27.550 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.078948+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Medicine::Turkish": {
+    "fee_usd": 21850.0,
+    "raw_text": "Medicine | 6 | 84 | Turkish | 23.000 $ | 21.850 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.078889+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Midwifery (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Midwifery (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.082445+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Midwifery (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Midwifery (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081607+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Midwifery::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Midwifery | 4 | 30 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080218+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Molecular Biology and Genetics (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Molecular Biology and Genetics (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082773+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Molecular Biology and Genetics::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Molecular Biology and Genetics | 4 | 70 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079672+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Molecular Oncology (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Molecular Oncology (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082374+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Neuroscience (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Neuroscience (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082470+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Neuroscience (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Neuroscience (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081706+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::New Media and Communication::English": {
+    "fee_usd": 7000.0,
+    "raw_text": "New Media and Communication | 4 | 60 | English | 7.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080085+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Nursing::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Nursing | 4 | 60 | English | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080314+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Nursing::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Nursing | 4 | 40 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080290+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Nutrition and Dietetics::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Nutrition and Dietetics | 4 | 30 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080142+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Nutrition and Dietetics (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Nutrition and Dietetics (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.082350+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Nutrition and Dietetics (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Nutrition and Dietetics (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081843+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Nutrition and Dietetics (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Nutrition and Dietetics (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081806+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Obstetrics and Gynaecologic Nursing (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Obstetrics and Gynaecologic Nursing (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.082422+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Obstetrics and Gynaecologic Nursing (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Obstetrics and Gynaecologic Nursing (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081576+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Obstetrics and Gynaecologic Nursing (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Obstetrics and Gynaecologic Nursing (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081551+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Occupational Health and Safety (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Occupational Health and Safety (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080797+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Pharmaceutical Chemistry (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Pharmaceutical Chemistry (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082227+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Pharmacy::English": {
+    "fee_usd": 14250.0,
+    "raw_text": "Pharmacy | 5 | 60 | English | 15.000 $ | 14.250 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079108+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Pharmacy::Turkish": {
+    "fee_usd": 13300.0,
+    "raw_text": "Pharmacy | 5 | 60 | Turkish | 14.000 $ | 13.300 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079081+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Physics (PhD)::English": {
+    "fee_usd": 15000.0,
+    "raw_text": "Physics (PhD) | 5 | 15 | English | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.083044+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Physiotherapy and Rehabilitation (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Physiotherapy and Rehabilitation (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.082275+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Physiotherapy and Rehabilitation (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Physiotherapy and Rehabilitation (with thesis) | 2 | 15 | English | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081655+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Physiotherapy and Rehabilitation (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Physiotherapy and Rehabilitation (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081631+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Physiotherapy and Rehabilitation::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Physiotherapy and Rehabilitation | 4 | 60 | English | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080266+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Physiotherapy and Rehabilitation::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Physiotherapy and Rehabilitation | 4 | 60 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080242+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Political Science and International Relations (with thesis)::English": {
+    "fee_usd": 8500.0,
+    "raw_text": "Political Science and International Relations (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080675+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Political Science and International Relations (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Political Science and International Relations (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080650+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Political Science and Public Administration::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Political Science and Public Administration | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079877+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Psychology (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Psychology (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080722+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Psychology (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Psychology (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080698+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Psychology::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Psychology | 4 | 50 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079167+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Psychology::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Psychology | 4 | 35 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079141+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Public Relations and Advertising::Turkish": {
+    "fee_usd": 7000.0,
+    "raw_text": "Public Relations and Advertising | 4 | 60 | Turkish | 7.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080061+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Radio, Television and Cinema::English": {
+    "fee_usd": 7000.0,
+    "raw_text": "Radio, Television and Cinema | 4 | 80 | English | 7.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080110+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Software Development::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Software Development | 4 | 60 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079748+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Software Engineering::English": {
+    "fee_usd": 8000.0,
+    "raw_text": "Software Engineering | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079497+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Software Engineering::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Software Engineering | 4 | 50 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079473+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Speech and Language Therapy::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Speech and Language Therapy | 4 | 30 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.080190+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Speech and Language Therapy (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Speech and Language Therapy (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.082252+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Speech and Language Therapy (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Speech and Language Therapy (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081782+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Sports Physiotherapy (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Sports Physiotherapy (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081868+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Stem Cell and Tissue Engineering (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Stem Cell and Tissue Engineering (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.082301+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Stem Cell and Tissue Engineering (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Stem Cell and Tissue Engineering (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.081682+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Surgical Disease Nursing (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Surgical Disease Nursing (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081527+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Surgical Disease Nursing (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Surgical Disease Nursing (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
+    "scraped_at": "2026-07-10T08:59:10.081502+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Textile and Fashion Design (non-thesis)::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Textile and Fashion Design (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080967+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Textile and Fashion Design (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Textile and Fashion Design (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080941+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Textile and Fashion Design::Turkish": {
+    "fee_usd": 7000.0,
+    "raw_text": "Textile and Fashion Design | 4 | 30 | Turkish | 7.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079442+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Turkish Language and Literature (with thesis)::Turkish": {
+    "fee_usd": 8500.0,
+    "raw_text": "Turkish Language and Literature (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080772+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Turkish Language and Literature::Turkish": {
+    "fee_usd": 8000.0,
+    "raw_text": "Turkish Language and Literature | 4 | 10 | Turkish | 8.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.079192+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Visual Communication Design::Turkish": {
+    "fee_usd": 7000.0,
+    "raw_text": "Visual Communication Design | 4 | 20 | Turkish | 7.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-07-10T08:59:10.080036+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "uskudar::Addiction Consultancy and Rehabilitation (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Addiction Consultancy and Rehabilitation (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275676+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Addiction Consultancy and Rehabilitation (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Addiction Consultancy and Rehabilitation (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275657+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Advertising (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Advertising (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273545+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::All Vocational School of Health Sciences Programs::any": {
+    "fee_usd": 2660.0,
+    "raw_text": "All Vocational School of Health Sciences Programs | 2 Years | $ 2.800 | $ 2.660 | $ 1.400",
+    "scraped_at": "2026-07-10T08:59:52.275252+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Artificial Intelligence Engineering (Turkish) - Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Artificial Intelligence Engineering (Turkish) - Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276519+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Artificial Intelligence Engineering (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Artificial Intelligence Engineering (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276497+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Audiology (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Audiology (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274278+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Bioengineering (English) - Non-Thesis::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Bioengineering (English) - Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276580+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Bioengineering (English) - Thesis::English": {
+    "fee_usd": 4320.0,
+    "raw_text": "Bioengineering (English) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276538+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Bioengineering (English)::English": {
+    "fee_usd": 4500.0,
+    "raw_text": "Bioengineering (English) | 4 Years | $ 5.000 | $ 4.500 | $ 2.500",
+    "scraped_at": "2026-07-10T08:59:52.274024+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Bioengineering (Turkish) - Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Bioengineering (Turkish) - Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276599+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Bioengineering (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Bioengineering (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276556+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Bioinformatics (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Bioinformatics (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276655+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Biosecurity (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Biosecurity (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.277098+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Biotechnology (Turkish) - Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Biotechnology (Turkish) - Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276637+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Biotechnology (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Biotechnology (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276618+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Cartoon and Animation (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Cartoon and Animation (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273566+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Chemical Engineering (English) -Thesis::English": {
+    "fee_usd": 4320.0,
+    "raw_text": "Chemical Engineering (English) -Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276673+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Chemical Engineering (English) / Non-Thesis::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Chemical Engineering (English) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276691+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Chemical Engineering (English)::English": {
+    "fee_usd": 4500.0,
+    "raw_text": "Chemical Engineering (English) | 4 Years | $ 5.000 | $ 4.500 | $ 2.500",
+    "scraped_at": "2026-07-10T08:59:52.274043+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Child Development (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Child Development (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275716+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Child Development (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Child Development (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275695+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Child Development (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Child Development (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274297+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Computer Engineering (English) / Non-Thesis::English": {
+    "fee_usd": 4590.0,
+    "raw_text": "Computer Engineering (English) / Non-Thesis | 3 Terms | $ 5.100 | $ 4.590 | $ 2.550",
+    "scraped_at": "2026-07-10T08:59:52.276727+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Computer Engineering (English)-Thesis::English": {
+    "fee_usd": 5130.0,
+    "raw_text": "Computer Engineering (English)-Thesis | 4 Terms | $ 5.700 | $ 5.130 | $ 2.850",
+    "scraped_at": "2026-07-10T08:59:52.276709+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Computer Engineering (English)::English": {
+    "fee_usd": 5000.0,
+    "raw_text": "Computer Engineering (English) | 4 Years | $ 5.600 | $ 5.000 | $ 2.800",
+    "scraped_at": "2026-07-10T08:59:52.274063+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Computer Engineering (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Computer Engineering (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276745+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Computer Engineering (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Computer Engineering (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276763+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Criminal Justice (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Criminal Justice (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.277135+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Criminal Justice (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Criminal Justice (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.277117+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Cyber Security (English) / Non-Thesis::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Cyber Security (English) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276799+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Cyber Security (English)-Thesis::English": {
+    "fee_usd": 5130.0,
+    "raw_text": "Cyber Security (English)-Thesis | 4 Terms | $ 5.700 | $ 5.130 | $ 2.850",
+    "scraped_at": "2026-07-10T08:59:52.276781+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Cyber Security (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Cyber Security (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276853+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Cyber Security (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Cyber Security (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276834+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Dentistry (English)::English": {
+    "fee_usd": 19800.0,
+    "raw_text": "Dentistry (English) | 5 Years | $ 22.000 | $ 19.800 | $ 11.000",
+    "scraped_at": "2026-07-10T08:59:52.273442+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Dentistry (Turkish)::Turkish": {
+    "fee_usd": 14400.0,
+    "raw_text": "Dentistry (Turkish) | 5 Years | $ 16.000 | $ 14.400 | $ 8.000",
+    "scraped_at": "2026-07-10T08:59:52.273463+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Electrical-Electronic Engineering (English) / Non- Thesis::English": {
+    "fee_usd": 4590.0,
+    "raw_text": "Electrical-Electronic Engineering (English) / Non- Thesis | 3 Terms | $ 5.100 | $ 4.590 | $ 2.550",
+    "scraped_at": "2026-07-10T08:59:52.276890+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Electrical-Electronic Engineering (English) / Thesis::English": {
+    "fee_usd": 5130.0,
+    "raw_text": "Electrical-Electronic Engineering (English) / Thesis | 4 Terms | $ 5.700 | $ 5.130 | $ 2.850",
+    "scraped_at": "2026-07-10T08:59:52.276872+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Electrical-Electronics Engineering (English)::English": {
+    "fee_usd": 4500.0,
+    "raw_text": "Electrical-Electronics Engineering (English) | 4 Years | $ 5.000 | $ 4.500 | $ 2.500",
+    "scraped_at": "2026-07-10T08:59:52.274082+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Engineering Management (English) / Non-Thesis::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Engineering Management (English) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276944+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Engineering Management (English)-Thesis::English": {
+    "fee_usd": 4320.0,
+    "raw_text": "Engineering Management (English)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276908+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Engineering Management (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Engineering Management (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276926+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::English Translation and Interpreting (English)::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "English Translation and Interpreting (English) | 4 Years | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.273765+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Forensic Chemistry and Toxicology (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Forensic Chemistry and Toxicology (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.277175+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Forensic Chemistry and Toxicology (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Forensic Chemistry and Toxicology (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.277157+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Forensic Science (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Forensic Science (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274100+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Forensic Sciences (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Forensic Sciences (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.277212+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Forensic Sciences (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4590.0,
+    "raw_text": "Forensic Sciences (Turkish)-Thesis | 4 Terms | $ 5.100 | $ 4.590 | $ 2.550",
+    "scraped_at": "2026-07-10T08:59:52.277194+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Health Informatics (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Health Informatics (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275789+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Health Informatics (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Health Informatics (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275771+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Health Management (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Health Management (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275838+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Health Management (Turkish)- Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Health Management (Turkish)- Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275808+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Health Management (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Health Management (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274316+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::History (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "History (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273785+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Industrial Engineering (English)::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Industrial Engineering (English) | 4 Years | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.274119+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Journalism (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Journalism (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273588+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Management Information Systems (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Management Information Systems (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273807+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Medicine (English)::English": {
+    "fee_usd": 21600.0,
+    "raw_text": "Medicine (English) | 6 Years | $ 24.000 | $ 21.600 | $ 12.000",
+    "scraped_at": "2026-07-10T08:59:52.273322+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Medicine (Turkish)::Turkish": {
+    "fee_usd": 16200.0,
+    "raw_text": "Medicine (Turkish) | 6 Years | $ 18.000 | $ 16.200 | $ 9.000",
+    "scraped_at": "2026-07-10T08:59:52.273365+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Midwifery (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Midwifery (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275876+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Midwifery (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Midwifery (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275857+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Midwifery (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Midwifery (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274334+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Molecular Biology (English) / Non-Thesis::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Molecular Biology (English) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.277002+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Molecular Biology (English)-Thesis::English": {
+    "fee_usd": 4320.0,
+    "raw_text": "Molecular Biology (English)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276965+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Molecular Biology (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Molecular Biology (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.277021+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Molecular Biology (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Molecular Biology (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276984+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Molecular Biology and Genetics (English)::English": {
+    "fee_usd": 4500.0,
+    "raw_text": "Molecular Biology and Genetics (English) | 4 Years | $ 5.000 | $ 4.500 | $ 2.500",
+    "scraped_at": "2026-07-10T08:59:52.274138+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Molecular Biology and Genetics (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Molecular Biology and Genetics (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274161+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Neuroscience (English) / Non-Thesis::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Neuroscience (English) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275916+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Neuroscience (English)-Thesis::English": {
+    "fee_usd": 4320.0,
+    "raw_text": "Neuroscience (English)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275895+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Neuroscience (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Neuroscience (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275935+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Neuroscience (Turkish) / Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Neuroscience (Turkish) / Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275954+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::New Media and Communication (English)::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "New Media and Communication (English) | 4 Years | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.273608+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::New Media and Communication (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "New Media and Communication (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273627+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Nursing (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Nursing (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275752+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Nursing (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Nursing (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275734+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Nursing (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Nursing (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274353+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Nutrition and Dietetics (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Nutrition and Dietetics (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.275990+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Nutrition and Dietetics (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Nutrition and Dietetics (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.275972+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Nutrition and Dietetics (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Nutrition and Dietetics (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274372+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Occupational Health and Safety (Turkish) - Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Occupational Health and Safety (Turkish) - Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276008+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Occupational Health and Safety (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Occupational Health and Safety (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276027+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Occupational Health and Safety (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Occupational Health and Safety (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274390+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Occupational Therapy (Turkish) /Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Occupational Therapy (Turkish) /Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276064+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Occupational Therapy (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Occupational Therapy (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276045+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Occupational Therapy (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Occupational Therapy (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274409+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Perfusion (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Perfusion (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276106+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Perfusion (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Perfusion (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276088+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Perfusion (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Perfusion (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.274428+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. The Though, History, and Literature of Islamic Civilization (Turkish)::Turkish": {
+    "fee_usd": 11970.0,
+    "raw_text": "Ph.D. The Though, History, and Literature of Islamic Civilization (Turkish) | 4 Terms | $ 13.300 | $ 11.970 | $ 6.650",
+    "scraped_at": "2026-07-10T08:59:52.275502+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Clinical Anatomy (Turkish)::Turkish": {
+    "fee_usd": 8100.0,
+    "raw_text": "Ph.D. in Clinical Anatomy (Turkish) | 4 Years | $ 9.000 | $ 8.100 | $ 4.500",
+    "scraped_at": "2026-07-10T08:59:52.276232+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Forensic Sciences (Turkish)::Turkish": {
+    "fee_usd": 7020.0,
+    "raw_text": "Ph.D. in Forensic Sciences (Turkish) | 4 Years | $ 7.800 | $ 7.020 | $ 3.900",
+    "scraped_at": "2026-07-10T08:59:52.277230+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Health Management (Turkish)::Turkish": {
+    "fee_usd": 7020.0,
+    "raw_text": "Ph.D. in Health Management (Turkish) | 4 Years | $ 7.800 | $ 7.020 | $ 3.900",
+    "scraped_at": "2026-07-10T08:59:52.276252+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Medical Genetics (Turkish)::Turkish": {
+    "fee_usd": 8100.0,
+    "raw_text": "Ph.D. in Medical Genetics (Turkish) | 4 Years | $ 9.000 | $ 8.100 | $ 4.500",
+    "scraped_at": "2026-07-10T08:59:52.276342+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Neuroscience (Turkish)::Turkish": {
+    "fee_usd": 8100.0,
+    "raw_text": "Ph.D. in Neuroscience (Turkish) | 4 Years | $ 9.000 | $ 8.100 | $ 4.500",
+    "scraped_at": "2026-07-10T08:59:52.276270+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Nursing (Turkish)::Turkish": {
+    "fee_usd": 8100.0,
+    "raw_text": "Ph.D. in Nursing (Turkish) | 4 Years | $ 9.000 | $ 8.100 | $ 4.500",
+    "scraped_at": "2026-07-10T08:59:52.276287+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Occupational Health and Safety (Turkish)::Turkish": {
+    "fee_usd": 7020.0,
+    "raw_text": "Ph.D. in Occupational Health and Safety (Turkish) | 4 Years | $ 7.800 | $ 7.020 | $ 3.900",
+    "scraped_at": "2026-07-10T08:59:52.276305+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Physiology (Turkish)::Turkish": {
+    "fee_usd": 8100.0,
+    "raw_text": "Ph.D. in Physiology (Turkish) | 4 Years | $ 9.000 | $ 8.100 | $ 4.500",
+    "scraped_at": "2026-07-10T08:59:52.276324+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Ph.D. in Speech and Language Therapy(Turkish)::Turkish": {
+    "fee_usd": 8100.0,
+    "raw_text": "Ph.D. in Speech and Language Therapy(Turkish) | 4 Years | $ 9.000 | $ 8.100 | $ 4.500",
+    "scraped_at": "2026-07-10T08:59:52.276360+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Philosophy (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Philosophy (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273843+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Physiotherapy and Rehabilitation (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Physiotherapy and Rehabilitation (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276142+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Physiotherapy and Rehabilitation (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Physiotherapy and Rehabilitation (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276124+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Physiotherapy and Rehabilitation (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Physiotherapy and Rehabilitation (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.275147+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Political Science and International Relations (English)::English": {
+    "fee_usd": 3960.0,
+    "raw_text": "Political Science and International Relations (English) | 4 Years | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.273862+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Political Science and International Relations (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Political Science and International Relations (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273881+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Psychology (English)::English": {
+    "fee_usd": 5000.0,
+    "raw_text": "Psychology (English) | 4 Years | $ 5.600 | $ 5.000 | $ 2.800",
+    "scraped_at": "2026-07-10T08:59:52.273900+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Psychology (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Psychology (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273919+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Public Relations and Publicity (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Public Relations and Publicity (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273646+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Radio, Television and Cinema (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Radio, Television and Cinema (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273666+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Social Work (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Social Work (Turkish) / Non-Thesis | 3 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276179+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Social Work (Turkish)-Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Social Work (Turkish)-Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276160+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Social Work (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Social Work (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.275170+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Sociology (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Sociology (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273941+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Software Engineering (English)::English": {
+    "fee_usd": 5000.0,
+    "raw_text": "Software Engineering (English) | 4 Years | $ 5.600 | $ 5.000 | $ 2.800",
+    "scraped_at": "2026-07-10T08:59:52.274182+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Speech and Language Therapy (Turkish)- Non-Thesis::Turkish": {
+    "fee_usd": 3960.0,
+    "raw_text": "Speech and Language Therapy (Turkish)- Non-Thesis | 4 Terms | $ 4.400 | $ 3.960 | $ 2.200",
+    "scraped_at": "2026-07-10T08:59:52.276214+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Speech and Language Therapy (Turkish)- Thesis::Turkish": {
+    "fee_usd": 4320.0,
+    "raw_text": "Speech and Language Therapy (Turkish)- Thesis | 4 Terms | $ 4.800 | $ 4.320 | $ 2.400",
+    "scraped_at": "2026-07-10T08:59:52.276196+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Speech and Language Therapy (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Speech and Language Therapy (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.275190+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Sufi Culture and Literature (Turkish) / Non-Thesis::Turkish": {
+    "fee_usd": 6750.0,
+    "raw_text": "Sufi Culture and Literature (Turkish) / Non-Thesis | 3 Terms | $ 7.500 | $ 6.750 | $ 3.750",
+    "scraped_at": "2026-07-10T08:59:52.275483+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Sufi Culture and Literature (Turkish) / Thesis::Turkish": {
+    "fee_usd": 8235.0,
+    "raw_text": "Sufi Culture and Literature (Turkish) / Thesis | 4 Terms | $ 9.150 | $ 8.235 | $ 4.575",
+    "scraped_at": "2026-07-10T08:59:52.275463+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  },
+  "uskudar::Visual Communication Design (Turkish)::Turkish": {
+    "fee_usd": 3800.0,
+    "raw_text": "Visual Communication Design (Turkish) | 4 Years | $ 4.200 | $ 3.800 | $ 2.100",
+    "scraped_at": "2026-07-10T08:59:52.273685+00:00",
+    "source_url": "https://international.uskudar.edu.tr/en/tuition-fee"
+  }
+}
