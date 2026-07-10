@@ -28,6 +28,9 @@ jobs:
         run: pytest tests/ -v
 
       - name: Run the scrape
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python run_scrape.py
 
       - name: Commit updated snapshot + review report
