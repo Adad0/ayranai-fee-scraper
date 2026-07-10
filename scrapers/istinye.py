@@ -5,8 +5,19 @@ Page shape (verified by hand, 2026-07): a Drupal-rendered page with a series
 of HTML <table> elements. The undergraduate table has columns:
   Name of Program | Duration | Quota | Medium of Instruction |
   Installment Payment (Annual) | Full Payment (Annual) | Campus
-Faculty section headers appear as single-cell bold rows spanning the table
-width — these must be skipped, not parsed as programs.
+Faculty section headers appear as bold rows spanning the table width — but
+NOT consistently as a single colspan'd <td> (verified by direct fetch,
+2026-07). The live page mixes two markup styles: "Faculty of Humanities and
+Social Sciences" and five others use <td colspan="7"><strong>...</strong></td>
+(one real <td>), while "Faculty of Medicine", "Faculty of Dentistry", and
+"Faculty of Pharmacy" instead use SEVEN separate <td> cells — one with the
+name in <strong>, the other six just a blank space — to hit the same visual
+width. A cell-count check alone (len(cells) == 1) only catches the first
+style; the second style used to fall through to normal-row parsing, find no
+price in any of its seven empty-ish cells, and get silently skipped without
+ever updating current_faculty — leaving Medicine/Dentistry/Pharmacy programs
+with faculty=None. Detect both styles by checking whether every cell after
+the first is blank, not by counting cells.
 
 We take "Full Payment (Annual)" as the canonical annual_fee_usd when present
 (it's the discounted lump-sum figure, and it's what the existing AyranAI
@@ -80,18 +91,21 @@ class IstinyeAdapter(UniversityFeeAdapter):
             current_faculty: str | None = None
             for row in rows:
                 cells = row.find_all("td")
-                if len(cells) < 2:
-                    # single spanning cell (or empty row) — this is a bold
-                    # faculty-header row like "Faculty of Medicine". Capture its
-                    # text so it can be attached to the program rows that follow,
-                    # rather than just skipping it.
-                    if len(cells) == 1:
-                        header_text = cells[0].get_text(strip=True)
-                        if header_text:
-                            current_faculty = header_text
-                    continue
+                if not cells:
+                    continue  # a <th>-only row (the real column-header row)
+
                 cell_text = [c.get_text(strip=True) for c in cells]
                 program_name = cell_text[0]
+
+                # A faculty-header row (either markup style — see module
+                # docstring) has real text only in its first cell; every cell
+                # after it is blank. A genuine program row always has real
+                # values in at least one of its other columns (duration,
+                # quota, campus, ...), so this can't false-positive on those.
+                if program_name and not any(cell_text[1:]):
+                    current_faculty = program_name
+                    continue
+
                 if not program_name or program_name.startswith("**"):
                     continue  # bold faculty-header row leaking through as a single real cell
 

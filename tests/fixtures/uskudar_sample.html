@@ -1,38 +1,73 @@
 <!-- Representative subset of Üsküdar University's real tuition page
-     (international.uskudar.edu.tr/en/tuition-fee, fetched 2026-07, not
-     robots-blocked). Real program names/fees, trimmed to a representative
-     sample covering: undergrad table (PER YEAR column), graduate table
-     (FULL PROGRAM column, different header wording), English/Turkish
-     variants, and a table that should be skipped (no recognizable fee
-     column). -->
+     (international.uskudar.edu.tr/en/tuition-fee), captured by directly
+     fetching the live page 2026-07 and inspecting the raw HTML — NOT an
+     approximation. Key structural facts confirmed against the live DOM:
+       - There is NO <caption> element anywhere on the real page. The
+         faculty/institute name is the sole cell of each table's first
+         <tr> (a single <th colSpan="N">...</th>), followed by a second
+         <tr> with the real column headers.
+       - Some graduate-table headers use <br/> instead of "/" between
+         "TUITION FEE" and "FULL PROGRAM" (Institute of Social Sciences
+         below) — get_text(" ", strip=True) turns that into a single
+         space, not a slash, so it needs its own match target.
+       - A few small tables (English Preparatory School, TÖMER) only have
+         3 columns: PROGRAM | Duration | TUITION FEE / FULL PROGRAM.
+     Covers: undergrad table (PER YEAR column), two graduate-table header
+     styles (FULL PROGRAM with "/" and with <br/>), a 3-column table,
+     English/Turkish variants, and a table that should be skipped (no
+     recognizable fee column). -->
 <html>
 <body>
 <table>
-<caption>FACULTY OF MEDICINE</caption>
-<tr><th>PROGRAM</th><th>Duration</th><th>TUITION FEE / PER YEAR</th><th>PAYMENT IN ADVANCE</th><th>TUITION FEE / PER TERM</th></tr>
-<tr><td>Medicine (English)</td><td>6 Years</td><td>$ 24.000</td><td>$ 21.600</td><td>$ 12.000</td></tr>
-<tr><td>Medicine (Turkish)</td><td>6 Years</td><td>$ 18.000</td><td>$ 16.200</td><td>$ 9.000</td></tr>
+<tbody>
+<tr><th colSpan="5">FACULTY OF MEDICINE</th></tr>
+<tr><th class="program-header">PROGRAM</th><th class="dark-header">Duration</th><th class="dark-header">TUITION FEE / PER YEAR</th><th class="dark-header">PAYMENT IN ADVANCE</th><th class="dark-header">TUITION FEE / PER TERM</th></tr>
+<tr><td class="left">Medicine (English)</td><td>6 Years</td><td>$ 24.000</td><td>$ 21.600</td><td>$ 12.000</td></tr>
+<tr><td class="left">Medicine (Turkish)</td><td>6 Years</td><td>$ 18.000</td><td>$ 16.200</td><td>$ 9.000</td></tr>
+</tbody>
 </table>
 
 <table>
-<caption>FACULTY OF ENGINEERING AND NATURAL SCIENCES</caption>
-<tr><th>PROGRAM</th><th>Duration</th><th>TUITION FEE / PER YEAR</th><th>PAYMENT IN ADVANCE</th><th>TUITION FEE / PER TERM</th></tr>
-<tr><td>Computer Engineering (English)</td><td>4 Years</td><td>$ 5.600</td><td>$ 5.000</td><td>$ 2.800</td></tr>
-<tr><td>Software Engineering (English)</td><td>4 Years</td><td>$ 5.600</td><td>$ 5.000</td><td>$ 2.800</td></tr>
-<tr><td>Forensic Science (Turkish)</td><td>4 Years</td><td>$ 4.200</td><td>$ 3.800</td><td>$ 2.100</td></tr>
+<tbody>
+<tr><th colSpan="5">FACULTY OF ENGINEERING AND NATURAL SCIENCES</th></tr>
+<tr><th class="program-header">PROGRAM</th><th class="dark-header">Duration</th><th class="dark-header">TUITION FEE / PER YEAR</th><th class="dark-header">PAYMENT IN ADVANCE</th><th class="dark-header">TUITION FEE / PER TERM</th></tr>
+<tr><td class="left">Computer Engineering (English)</td><td>4 Years</td><td>$ 5.600</td><td>$ 5.000</td><td>$ 2.800</td></tr>
+<tr><td class="left">Software Engineering (English)</td><td>4 Years</td><td>$ 5.600</td><td>$ 5.000</td><td>$ 2.800</td></tr>
+<tr><td class="left">Forensic Science (Turkish)</td><td>4 Years</td><td>$ 4.200</td><td>$ 3.800</td><td>$ 2.100</td></tr>
+</tbody>
 </table>
 
 <table>
-<caption>INSTITUTE OF SCIENCES</caption>
-<tr><th>PROGRAM</th><th>Duration</th><th>TUITION FEE / FULL PROGRAM</th><th>PAYMENT IN ADVANCE</th><th>TUITION FEE / INSTALLMENT</th></tr>
-<tr><td>Computer Engineering (English)-Thesis</td><td>4 Terms</td><td>$ 5.700</td><td>$ 5.130</td><td>$ 2.850</td></tr>
-<tr><td>Cyber Security (Turkish)-Thesis</td><td>4 Terms</td><td>$ 4.800</td><td>$ 4.320</td><td>$ 2.400</td></tr>
+<tbody>
+<tr><th class="faculty-title" colSpan="5">INSTITUTE OF SCIENCES</th></tr>
+<tr><th class="program-header">PROGRAM</th><th class="dark-header">Duration</th><th class="dark-header">TUITION FEE / FULL PROGRAM</th><th class="dark-header">PAYMENT IN ADVANCE</th><th class="dark-header">TUITION FEE / INSTALLMENT</th></tr>
+<tr><td class="left">Computer Engineering (English)-Thesis</td><td>4 Terms</td><td>$ 5.700</td><td>$ 5.130</td><td>$ 2.850</td></tr>
+<tr><td class="left">Cyber Security (Turkish)-Thesis</td><td>4 Terms</td><td>$ 4.800</td><td>$ 4.320</td><td>$ 2.400</td></tr>
+</tbody>
 </table>
 
 <table>
-<caption>SOME UNRELATED INFO TABLE</caption>
+<tbody>
+<tr><th class="faculty-title" colSpan="5">INSTITUTE OF SOCIAL SCIENCES</th></tr>
+<tr><th class="program-header">PROGRAM</th><th class="dark-header">Duration</th><th class="dark-header">TUITION FEE<br/>FULL PROGRAM</th><th class="dark-header">PAYMENT IN ADVANCE</th><th class="dark-header">TUITION FEE / INSTALLMENT</th></tr>
+<tr><td class="left">Applied Psychology (Turkish) / Non-Thesis</td><td>3 Terms</td><td>$ 7.000</td><td>$ 6.300</td><td>$ 3.500</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><th class="faculty-title" colSpan="3">ENGLISH PREPARATORY SCHOOL</th></tr>
+<tr><th class="program-header">PROGRAM</th><th class="dark-header">Duration</th><th class="dark-header">TUITION FEE / FULL PROGRAM</th></tr>
+<tr><td class="left">English Preparatory Class</td><td>2 Terms</td><td>$ 4.400</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><th colSpan="2">SOME UNRELATED INFO TABLE</th></tr>
 <tr><th>Item</th><th>Notes</th></tr>
 <tr><td>Insurance</td><td>Mandatory for all students</td></tr>
+</tbody>
 </table>
 </body>
 </html>

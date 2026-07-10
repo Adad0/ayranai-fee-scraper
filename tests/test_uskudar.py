@@ -49,9 +49,12 @@ def test_language_extracted_from_program_name_suffix():
     assert tr.language == "Turkish"
 
 
-def test_faculty_captured_from_table_caption():
-    """Each <table> has a <caption> naming its faculty/institute — that text
-    must be attached as `faculty` to every row parsed from that table."""
+def test_faculty_captured_from_first_row_single_cell():
+    """The live page has NO <caption> element anywhere — the faculty/institute
+    name is instead the sole cell of each table's first <tr> (a single
+    <th colSpan="N">...</th>), followed by a second <tr> with the real column
+    headers. That text must be attached as `faculty` to every row parsed from
+    that table."""
     adapter = UskudarAdapter()
     fees = adapter.parse(FIXTURE.read_text())
 
@@ -63,6 +66,42 @@ def test_faculty_captured_from_table_caption():
 
     ce_thesis = next(f for f in fees if "Computer Engineering (English)-Thesis" in f.program_name)
     assert ce_thesis.faculty == "INSTITUTE OF SCIENCES"
+
+
+def test_column_index_not_shifted_by_faculty_title_cell():
+    """Regression guard: an earlier version computed the fee-column index
+    from every <th> in the whole table (including the faculty-title cell),
+    which shifted every column index off by one and silently picked PAYMENT
+    IN ADVANCE instead of TUITION FEE / PER YEAR. The header row must be
+    read in isolation from the faculty-title row."""
+    adapter = UskudarAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+    medicine_en = next(f for f in fees if f.program_name == "Medicine (English)")
+    assert medicine_en.fee_usd == 24000.0  # not 21600 (payment in advance)
+
+
+def test_br_separated_header_still_matches_full_program_column():
+    """Some graduate tables use <br/> instead of '/' between 'TUITION FEE'
+    and 'FULL PROGRAM'; get_text(' ', strip=True) turns that into a single
+    space, not a slash, which must still be recognized as the fee column
+    (an earlier version silently dropped this table entirely)."""
+    adapter = UskudarAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+    applied_psych = next(f for f in fees if "Applied Psychology" in f.program_name)
+    assert applied_psych.fee_usd == 7000.0  # FULL PROGRAM, not 6300 (advance)
+    assert applied_psych.faculty == "INSTITUTE OF SOCIAL SCIENCES"
+
+
+def test_three_column_table_still_parses():
+    """Smaller tables (English Preparatory School, TÖMER) only have 3
+    columns (PROGRAM | Duration | TUITION FEE / FULL PROGRAM) — an earlier
+    version's column-index math broke on these and silently dropped the
+    whole table."""
+    adapter = UskudarAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+    prep = next(f for f in fees if f.program_name == "English Preparatory Class")
+    assert prep.fee_usd == 4400.0
+    assert prep.faculty == "ENGLISH PREPARATORY SCHOOL"
 
 
 def test_skips_tables_without_a_recognizable_fee_column():
