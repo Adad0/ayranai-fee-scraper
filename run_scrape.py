@@ -166,6 +166,7 @@ def _sync_fee_proposal(supabase, university_name: str, fee: ScrapedFee, old_fee_
                 "source_url": fee.source_url,
                 "raw_text": fee.raw_text,
                 "scraped_at": fee.scraped_at,
+                "faculty": fee.faculty,
             }).eq("id", existing[0]["id"]).execute()
         else:
             supabase.table("fee_change_proposals").insert({
@@ -178,6 +179,7 @@ def _sync_fee_proposal(supabase, university_name: str, fee: ScrapedFee, old_fee_
                 "raw_text": fee.raw_text,
                 "status": "pending",
                 "scraped_at": fee.scraped_at,
+                "faculty": fee.faculty,
             }).execute()
     except Exception as e:  # noqa: BLE001 — a single proposal sync failure must not crash the run
         _safe_print(

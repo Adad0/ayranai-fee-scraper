@@ -47,6 +47,26 @@ def test_skips_faculty_header_rows():
     assert "Faculty of Engineering and Natural Sciences" not in program_names
 
 
+def test_faculty_header_text_is_carried_forward_onto_program_rows():
+    """The bold header row's text isn't just skipped — it's tracked as the
+    current faculty and attached to every program row underneath it, until
+    the next header row changes it."""
+    adapter = IstinyeAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+
+    medicine_en = next(f for f in fees if f.program_name == "Medicine" and f.language == "English")
+    assert medicine_en.faculty == "Faculty of Medicine"
+
+    dentistry_en = next(f for f in fees if f.program_name == "Dentistry" and f.language == "English")
+    assert dentistry_en.faculty == "Faculty of Dentistry"
+
+    se_en = next(f for f in fees if f.program_name == "Software Engineering" and f.language == "English")
+    assert se_en.faculty == "Faculty of Engineering and Natural Sciences"
+
+    business = next(f for f in fees if f.program_name == "Business Administration")
+    assert business.faculty == "Faculty of Economics and Administrative Sciences"
+
+
 def test_skips_rows_with_no_price_listed():
     """Architecture (Turkish) has '-' for its fee in the fixture — a genuinely
     unpriced row (quota not yet open). Must be skipped, not recorded as $0

@@ -49,6 +49,22 @@ def test_language_extracted_from_program_name_suffix():
     assert tr.language == "Turkish"
 
 
+def test_faculty_captured_from_table_caption():
+    """Each <table> has a <caption> naming its faculty/institute — that text
+    must be attached as `faculty` to every row parsed from that table."""
+    adapter = UskudarAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+
+    medicine_en = next(f for f in fees if f.program_name == "Medicine (English)")
+    assert medicine_en.faculty == "FACULTY OF MEDICINE"
+
+    ce_en = next(f for f in fees if f.program_name == "Computer Engineering (English)")
+    assert ce_en.faculty == "FACULTY OF ENGINEERING AND NATURAL SCIENCES"
+
+    ce_thesis = next(f for f in fees if "Computer Engineering (English)-Thesis" in f.program_name)
+    assert ce_thesis.faculty == "INSTITUTE OF SCIENCES"
+
+
 def test_skips_tables_without_a_recognizable_fee_column():
     """The 'SOME UNRELATED INFO TABLE' has no PROGRAM/fee columns — must be
     silently skipped without crashing, and contribute zero fee records."""

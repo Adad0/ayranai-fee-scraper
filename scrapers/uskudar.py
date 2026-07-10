@@ -94,6 +94,9 @@ class UskudarAdapter(UniversityFeeAdapter):
             if fee_col_idx is None:
                 continue  # a table without a recognizable fee column — skip, don't guess
 
+            caption = table.find("caption")
+            faculty = caption.get_text(strip=True) if caption else None
+
             rows = table.find_all("tr")[1:]  # skip header row
             for row in rows:
                 cells = row.find_all("td")
@@ -119,6 +122,7 @@ class UskudarAdapter(UniversityFeeAdapter):
                     program_name=program_name,
                     fee_usd=fee_value,
                     language=language,
+                    faculty=faculty,
                     source_url=self.source_url,
                     raw_text=" | ".join(cell_text),
                 ))

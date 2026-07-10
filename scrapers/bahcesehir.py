@@ -85,11 +85,20 @@ class BahcesehirAdapter(UniversityFeeAdapter):
             amount = float(m.group("amount").replace(",", ""))
             basis = m.group("basis").lower()
 
+            # School-level entries (e.g. "School of Engineering & Natural
+            # Sciences") ARE the faculty — the program_name and faculty are
+            # the same string. Individually-priced exceptions (Artificial
+            # Intelligence Engineering, Pilotage) and graduate-level entries
+            # aren't school-level rows, so we leave faculty null rather than
+            # guessing which parent faculty administratively owns them.
+            faculty = name if name.lower().startswith("school of") else None
+
             fees.append(ScrapedFee(
                 university_key=self.university_key,
                 program_name=name,
                 fee_usd=amount,
                 language=None,  # BAU's fee page doesn't split by language the way İstinye's does — left unset, not guessed
+                faculty=faculty,
                 source_url=self.source_url,
                 raw_text=f"{text}  [[basis={basis}; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
             ))

@@ -77,10 +77,19 @@ class IstinyeAdapter(UniversityFeeAdapter):
                 continue
 
             rows = table.find_all("tr")
+            current_faculty: str | None = None
             for row in rows:
                 cells = row.find_all("td")
                 if len(cells) < 2:
-                    continue  # section-header rows (single spanning cell) or empty rows
+                    # single spanning cell (or empty row) — this is a bold
+                    # faculty-header row like "Faculty of Medicine". Capture its
+                    # text so it can be attached to the program rows that follow,
+                    # rather than just skipping it.
+                    if len(cells) == 1:
+                        header_text = cells[0].get_text(strip=True)
+                        if header_text:
+                            current_faculty = header_text
+                    continue
                 cell_text = [c.get_text(strip=True) for c in cells]
                 program_name = cell_text[0]
                 if not program_name or program_name.startswith("**"):
@@ -106,6 +115,7 @@ class IstinyeAdapter(UniversityFeeAdapter):
                     program_name=program_name,
                     fee_usd=fee_value,
                     language=language,
+                    faculty=current_faculty,
                     source_url=self.source_url,
                     raw_text=" | ".join(cell_text),
                 ))

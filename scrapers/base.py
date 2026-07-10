@@ -34,6 +34,7 @@ class ScrapedFee:
     program_name: str          # as scraped, in the source's own wording
     fee_usd: float              # the annual fee, already normalized to USD
     language: str | None = None       # "English" / "Turkish" / None if not specified
+    faculty: str | None = None        # faculty/school/institute name if the source associates one, else None
     source_url: str = ""
     raw_text: str = ""          # original matched text, kept for human review/debugging
     scraped_at: str = ""         # ISO timestamp, filled in automatically if omitted

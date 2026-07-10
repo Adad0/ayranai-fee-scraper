@@ -60,6 +60,35 @@ def test_pilotage_euro_component_tolerated_but_flagged_in_raw_text():
     assert "€22,000" in pilotage.raw_text  # but it's visible in the raw text for a human to notice
 
 
+def test_school_level_entries_use_program_name_as_faculty():
+    """For school-level rows, the program_name IS the school/faculty — e.g.
+    'School of Engineering & Natural Sciences' applies to every department
+    under it, so faculty should just echo the program_name."""
+    adapter = BahcesehirAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+
+    ens = next(f for f in fees if f.program_name == "School of Engineering & Natural Sciences")
+    assert ens.faculty == "School of Engineering & Natural Sciences"
+
+    medicine = next(f for f in fees if f.program_name == "School of Medicine")
+    assert medicine.faculty == "School of Medicine"
+
+
+def test_named_exceptions_leave_faculty_null():
+    """Artificial Intelligence Engineering and Pilotage are individually-
+    priced programs, not school-level rows — we don't know which faculty
+    administratively owns them, so faculty must stay null rather than
+    guessing."""
+    adapter = BahcesehirAdapter()
+    fees = adapter.parse(FIXTURE.read_text())
+
+    ai_eng = next(f for f in fees if f.program_name == "Artificial Intelligence Engineering")
+    assert ai_eng.faculty is None
+
+    pilotage = next(f for f in fees if f.program_name == "Pilotage")
+    assert pilotage.faculty is None
+
+
 def test_non_fee_nav_link_is_skipped_not_misparsed():
     """'View All Programs' also links to /programs/ but isn't a fee card —
     must not appear in results or crash the parser."""
