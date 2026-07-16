@@ -66,19 +66,38 @@ class AcibademAdapter(UniversityFeeAdapter):
 
         fees: list[ScrapedFee] = []
         for table in tables:
-            header_cells = [th.get_text(strip=True).upper() for th in table.find_all("th")]
-            if not any("PROGRAM" in h for h in header_cells) or not any("FEE" in h for h in header_cells):
+            # The real page's header row ("DEGREE | FACULTY | PROGRAM |
+            # LANGUAGE | FEE") uses <td>, not <th> (confirmed 2026-07) AND is
+            # NOT the table's first <tr> -- it's preceded by a single-cell
+            # title row ("2026-2027 ACADEMIC YEAR...") and two empty spacer
+            # <tr>s. Scan every row for the one that actually has PROGRAM+FEE
+            # text, rather than assuming it's row 0 or a <th>, and only start
+            # parsing data AFTER that row -- otherwise the title row gets
+            # misread as a stray faculty/program line before the real header
+            # is ever reached.
+            all_rows = table.find_all("tr")
+            header_idx = None
+            for i, row in enumerate(all_rows):
+                cell_text_upper = [c.get_text(" ", strip=True).upper() for c in row.find_all(["td", "th"])]
+                if any("PROGRAM" in c for c in cell_text_upper) and any("FEE" in c for c in cell_text_upper):
+                    header_idx = i
+                    break
+            if header_idx is None:
                 continue
 
             current_degree: str | None = None
             current_faculty: str | None = None
             current_program: str | None = None
 
-            for row in table.find_all("tr"):
+            for row in all_rows[header_idx + 1:]:
                 cells = row.find_all(["td", "th"])
                 if not cells:
                     continue
-                cell_text = [c.get_text(strip=True) for c in cells]
+                # get_text(" ", ...) not get_text(...): DEGREE cells on the
+                # real page split "UNDERGRADUATE"/"DEGREE" across a <br>
+                # inside nested <span><strong> tags -- without the separator
+                # this collapses to "UNDERGRADUATEDEGREE" (no space).
+                cell_text = [c.get_text(" ", strip=True) for c in cells]
 
                 if cell_text and cell_text[0].upper() == "DEGREE":
                     continue

@@ -1,11 +1,16 @@
-<!-- Real content from international.ku.edu.tr's tuition page (fetched
-     2026-07, robots.txt allows access). Program names/fees hand-verified.
-     Uses rowspan-style continuation: college-name cell absent on rows
-     that continue the prior group (row has 3 cells instead of 4). -->
+<!-- Real content AND real markup shape from international.ku.edu.tr's
+     tuition page, captured by directly fetching the live page 2026-07-16 --
+     not an approximation. One structural fact the previous version of this
+     fixture got wrong: the header row uses <td>, not <th> (confirmed
+     live -- table.find_all("th") was always empty, so the only table on the
+     page looked like "not the fee table" and was silently skipped). Data
+     rows are correctly <td>-based rowspan-style continuation: college-name
+     cell absent on rows that continue the prior group (row has 3 cells
+     instead of 4). -->
 <html>
 <body>
 <table>
-<tr><th>College Name</th><th>Program Name</th><th>2025/2026 Tuition Fee in USD</th><th>2025/2026 Tuition Fee in TL</th></tr>
+<tr><td>College Name</td><td>Program Name</td><td>2025/2026 Tuition Fee in USD</td><td>2025/2026 Tuition Fee in TL</td></tr>
 <tr><td>School of Medicine (SOM)</td><td>MD Medicine (MEDI)</td><td>59000</td><td>2.520.000</td></tr>
 <tr><td>Law School</td><td>BA Law (LAW)</td><td>38000</td><td>1.700.000</td></tr>
 <tr><td>School of Nursing (SON)</td><td>BSc Nursing (NURS)</td><td>38000</td><td>1.700.000</td></tr>

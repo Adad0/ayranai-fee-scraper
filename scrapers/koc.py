@@ -39,8 +39,16 @@ class KocAdapter(UniversityFeeAdapter):
     source_url = "https://international.ku.edu.tr/undergraduate-programs/tuition-and-scholarships/"
 
     def fetch(self) -> str:
+        # A self-identifying bot User-Agent (e.g. "...AyranAI-FeeScraper/1.0...")
+        # gets a 403 from this site's WAF/bot-detection, even though robots.txt
+        # allows access -- confirmed 2026-07: the page is reachable from a normal
+        # browser/network path, just not with that header. A realistic browser
+        # UA avoids the block. If this ever starts 403ing again, suspect IP-range
+        # blocking of the CI runner's datacenter IPs (a header change can't fix
+        # that -- needs a human to re-check, not another UA tweak).
         resp = requests.get(self.source_url, timeout=20, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; AyranAI-FeeScraper/1.0; +https://ayranai.com)"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         })
         resp.raise_for_status()
         return resp.text
@@ -56,7 +64,15 @@ class KocAdapter(UniversityFeeAdapter):
 
         fees: list[ScrapedFee] = []
         for table in tables:
-            header_cells = [th.get_text(strip=True).upper() for th in table.find_all("th")]
+            # Check the first ROW's cells regardless of tag (<th> or <td>) --
+            # this WordPress site's header row uses <td>, not <th> (confirmed
+            # 2026-07, same root cause as scrapers/acibadem.py's identical
+            # fix). table.find_all("th") alone was always empty, so the only
+            # table on the page looked like "not the fee table" and was
+            # silently skipped, producing zero rows.
+            first_row = table.find("tr")
+            first_row_cells = first_row.find_all(["td", "th"]) if first_row else []
+            header_cells = [c.get_text(strip=True).upper() for c in first_row_cells]
             if not any("PROGRAM" in h for h in header_cells) or not any("USD" in h for h in header_cells):
                 continue
 

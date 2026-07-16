@@ -1,13 +1,25 @@
-<!-- Real content from acibadem.edu.tr's official tuition fee page (fetched
-     2026-07, robots.txt allows access). Program names/fees hand-verified.
-     Uses realistic rowspan-continuation markup: cells for DEGREE/FACULTY/
-     PROGRAM are simply ABSENT (not empty <td>) on rows that continue
-     a group - this matches how HTML tables actually merge cells (rowspan). -->
+<!-- Real content and REAL markup shape from acibadem.edu.tr's official
+     tuition fee page, captured by directly fetching the live page 2026-07-16
+     and inspecting the raw HTML -- not an approximation. Two structural
+     facts the previous version of this fixture got wrong:
+       - The header row ("DEGREE | FACULTY | PROGRAM | LANGUAGE | FEE") uses
+         <td>, not <th>, AND is NOT the table's first <tr> -- it's preceded
+         by a single-cell title row ("2026-2027 ACADEMIC YEAR...") and two
+         empty spacer <tr>s (rowspan artifacts with zero cells).
+       - DEGREE-level cells split their text across a <br> inside nested
+         <span><strong> tags (e.g. "UNDERGRADUATE"<br>"DEGREE"), which
+         collapses to "UNDERGRADUATEDEGREE" (no space) unless get_text is
+         called with a " " separator.
+     Still uses rowspan-continuation for DEGREE/FACULTY/PROGRAM (cells simply
+     ABSENT, not empty <td>, on rows that continue a group). -->
 <html>
 <body>
 <table>
-<tr><th>DEGREE</th><th>FACULTY</th><th>PROGRAM</th><th>LANGUAGE</th><th>FEE (VAT Included)</th></tr>
-<tr><td>UNDERGRADUATE DEGREE</td><td>SCHOOL OF MEDICINE</td><td>Medicine</td><td>English</td><td>$36.000</td></tr>
+<tr><td>2026-2027 ACADEMIC YEAR<br>INTERNATIONAL STUDENTS TUITION FEES</td></tr>
+<tr></tr>
+<tr></tr>
+<tr><td>DEGREE</td><td>FACULTY</td><td>PROGRAM</td><td>LANGUAGE</td><td>FEE (VAT Included)</td></tr>
+<tr><td><span><strong>UNDERGRADUATE</strong></span><br><span><strong>DEGREE</strong></span></td><td>SCHOOL OF MEDICINE</td><td>Medicine</td><td>English</td><td>$36.000</td></tr>
 <tr><td>FACULTY OF PHARMACY</td><td>Pharmacy</td><td>English</td><td>$16.000</td></tr>
 <tr><td>FACULTY OF ENGINEERING AND NATURAL SCIENCES</td><td>Biomedical Engineering</td><td>English</td><td>$15.000</td></tr>
 <tr><td>Computer Engineering</td><td>English</td><td>$15.000</td></tr>
@@ -18,7 +30,7 @@
 <tr><td>FACULTY OF HEALTH SCIENCES</td><td>Physiotherapy and Rehabilitation</td><td>Turkish</td><td>$8.500</td></tr>
 <tr><td>Nursing</td><td>English</td><td>$8.500</td></tr>
 <tr><td>Turkish</td><td>$8.500</td></tr>
-<tr><td>ASSOCIATE DEGREE</td><td>VOCATIONAL SCHOOL</td><td>Culinary</td><td>Turkish</td><td>$3.500</td></tr>
+<tr><td><span><strong>ASSOCIATE</strong></span><br><span><strong>DEGREE</strong></span></td><td>VOCATIONAL SCHOOL</td><td>Culinary</td><td>Turkish</td><td>$3.500</td></tr>
 <tr><td>Computer Programming</td><td>Turkish</td><td>$3.500</td></tr>
 </table>
 </body>
