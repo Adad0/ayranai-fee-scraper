@@ -32,6 +32,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Only scrapers/koc.py uses Playwright (its WAF blocks plain
+      # requests.get() even with a browser User-Agent, but allows a real
+      # browser engine through -- see that file's module docstring). --with-
+      # deps also installs the system libraries (libnss3 etc.) Chromium
+      # needs on the bare ubuntu-latest runner image, not just the browser
+      # binary itself -- `playwright install chromium` alone fails at
+      # launch time on a fresh runner without them.
+      - name: Install Playwright's Chromium browser (for scrapers/koc.py)
+        run: playwright install --with-deps chromium
+
       - name: Run test suite first (fail fast if a parser is broken)
         run: pytest tests/ -v
 

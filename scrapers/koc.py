@@ -10,13 +10,26 @@ KEY DIFFERENCES: USD figures are PLAIN integers with no thousands
 separator ("59000"). The TL column exists but is deliberately ignored.
 No language column -- all programs are English-taught. Program names
 retain the school's own code suffix as scraped (e.g. "MD Medicine (MEDI)").
+
+FETCH MECHANISM -- KOC-SPECIFIC, READ BEFORE COPYING TO ANOTHER ADAPTER:
+requests.get() with a realistic browser User-Agent still gets a 403 from
+this site's WAF when run from GitHub Actions' runner IPs, even though the
+identical request succeeds from other networks (confirmed 2026-07-16) --
+i.e. IP-range/datacenter blocking, not a header problem. fetch() uses
+Playwright's headless Chromium instead: a real browser engine with a real
+TLS handshake and JS execution, which many basic WAF rules allow through
+even from datacenter IPs that block plain HTTP-library requests. This is
+deliberately isolated to this one adapter -- every other adapter in this
+repo still uses plain requests.get(), and should keep doing so unless it
+independently hits the same wall. Needs `playwright install chromium` (see
+requirements.txt and .github/workflows/monthly-scrape.yml) -- if that
+browser-binary install step is ever removed, this adapter breaks.
 """
 
 from __future__ import annotations
 
 import re
 
-import requests
 from bs4 import BeautifulSoup
 
 from .base import ScrapedFee, UniversityFeeAdapter
@@ -39,19 +52,37 @@ class KocAdapter(UniversityFeeAdapter):
     source_url = "https://international.ku.edu.tr/undergraduate-programs/tuition-and-scholarships/"
 
     def fetch(self) -> str:
-        # A self-identifying bot User-Agent (e.g. "...AyranAI-FeeScraper/1.0...")
-        # gets a 403 from this site's WAF/bot-detection, even though robots.txt
-        # allows access -- confirmed 2026-07: the page is reachable from a normal
-        # browser/network path, just not with that header. A realistic browser
-        # UA avoids the block. If this ever starts 403ing again, suspect IP-range
-        # blocking of the CI runner's datacenter IPs (a header change can't fix
-        # that -- needs a human to re-check, not another UA tweak).
-        resp = requests.get(self.source_url, timeout=20, headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                          "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        })
-        resp.raise_for_status()
-        return resp.text
+        # Deferred import: keeps `import scrapers.koc` cheap for callers that
+        # don't need it (tests import KocAdapter without ever calling
+        # fetch()), and means a broken/missing Playwright install only
+        # breaks this adapter's fetch(), not module import for the whole
+        # batch. See module docstring for why this uses a real browser
+        # engine instead of requests.get().
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            try:
+                page = browser.new_page(
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                               "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                )
+                # "domcontentloaded" not "networkidle": this is a static
+                # WordPress page, not one that keeps polling in the
+                # background -- networkidle would just add unnecessary wait
+                # time (or hang) without changing what content is present.
+                response = page.goto(self.source_url, timeout=30000, wait_until="domcontentloaded")
+                if response is not None and not response.ok:
+                    raise ValueError(
+                        f"Playwright navigation returned HTTP {response.status} for "
+                        f"{self.source_url} -- the WAF/bot-detection block was not "
+                        f"avoided by using a real browser engine. Needs a human to "
+                        f"investigate further (e.g. a different network path), not "
+                        f"another automated retry."
+                    )
+                return page.content()
+            finally:
+                browser.close()
 
     def parse(self, raw_content: str) -> list[ScrapedFee]:
         soup = BeautifulSoup(raw_content, "html.parser")
