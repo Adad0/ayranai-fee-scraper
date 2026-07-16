@@ -36,9 +36,11 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
+from scrapers.acibadem import AcibademAdapter
 from scrapers.bahcesehir import BahcesehirAdapter
 from scrapers.base import ScrapedFee
 from scrapers.istinye import IstinyeAdapter
+from scrapers.koc import KocAdapter
 from scrapers.uskudar import UskudarAdapter
 
 # Loads a local .env file if present (for local/manual runs); a no-op in CI,
@@ -50,12 +52,17 @@ ADAPTERS = [
     IstinyeAdapter(),
     BahcesehirAdapter(),
     UskudarAdapter(),
+    AcibademAdapter(),
+    KocAdapter(),
     # Add one line here per new university. That's the entire integration
-    # surface for adding #4, #5, ... #44 — write the adapter file (see
-    # scrapers/istinye.py, scrapers/bahcesehir.py, or scrapers/uskudar.py as
-    # templates for the three structural shapes seen so far: per-program
-    # table with embedded header rows, anchor-tag cards, and one-table-per-
-    # faculty), add its test fixture + tests, then register it here.
+    # surface for adding #6, #7, ... #44 — write the adapter file (see
+    # scrapers/istinye.py, scrapers/bahcesehir.py, scrapers/uskudar.py,
+    # scrapers/acibadem.py, or scrapers/koc.py as templates for the
+    # structural shapes seen so far: per-program table with embedded header
+    # rows, anchor-tag cards, one-table-per-faculty, rowspan-continuation
+    # (degree+faculty+program all carried forward), and rowspan-continuation
+    # (single carried-forward column, plain-integer fee, no language column),
+    # add its test fixture + tests, then register it here.
     #
     # ALSO add the new university_key -> canonical name mapping below in
     # UNIVERSITY_KEY_TO_CANONICAL_NAME, or its Supabase fee proposals will be
@@ -77,6 +84,8 @@ UNIVERSITY_KEY_TO_CANONICAL_NAME = {
     "istinye": "İstinye Üniversitesi",
     "bahcesehir": "Bahçeşehir Üniversitesi",
     "uskudar": "Üsküdar Üniversitesi",
+    "acibadem": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+    "koc": "Koç Üniversitesi",
 }
 
 DATA_DIR = Path(__file__).parent / "data"
