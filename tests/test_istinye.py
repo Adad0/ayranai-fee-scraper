@@ -11,6 +11,10 @@ from pathlib import Path
 
 from scrapers.istinye import IstinyeAdapter, _parse_try_lira_style_usd
 
+# Fixture is UTF-8 and contains Turkish characters (İstanbul, etc.) — every
+# read_text() call below passes encoding="utf-8" explicitly, since
+# Path.read_text() otherwise falls back to the platform's locale-preferred
+# codec (seen locally: Windows cp1256), silently mangling non-ASCII text.
 FIXTURE = Path(__file__).parent / "fixtures" / "istinye_sample.html"
 
 
@@ -31,7 +35,7 @@ def test_parses_known_program_with_expected_fee():
     fixture was deliberately updated to reflect a real fee change — not
     because someone "fixed" the parser to make a wrong number look right."""
     adapter = IstinyeAdapter()
-    fees = adapter.parse(FIXTURE.read_text())
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
 
     medicine_en = next(f for f in fees if f.program_name == "Medicine" and f.language == "English")
     assert medicine_en.fee_usd == 27550.0
@@ -41,7 +45,7 @@ def test_skips_faculty_header_rows():
     """'Faculty of Medicine' etc. must never appear as a program name — these
     are section headers, not real programs."""
     adapter = IstinyeAdapter()
-    fees = adapter.parse(FIXTURE.read_text())
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
     program_names = {f.program_name for f in fees}
     assert "Faculty of Medicine" not in program_names
     assert "Faculty of Engineering and Natural Sciences" not in program_names
@@ -52,7 +56,7 @@ def test_faculty_header_text_is_carried_forward_onto_program_rows():
     current faculty and attached to every program row underneath it, until
     the next header row changes it."""
     adapter = IstinyeAdapter()
-    fees = adapter.parse(FIXTURE.read_text())
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
 
     medicine_en = next(f for f in fees if f.program_name == "Medicine" and f.language == "English")
     assert medicine_en.faculty == "Faculty of Medicine"
@@ -73,7 +77,7 @@ def test_skips_rows_with_no_price_listed():
     (which would be worse than missing data — it would look like a real free
     program to whatever consumes this)."""
     adapter = IstinyeAdapter()
-    fees = adapter.parse(FIXTURE.read_text())
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
     architecture_rows = [f for f in fees if f.program_name == "Architecture"]
     assert architecture_rows == []
 
@@ -83,7 +87,7 @@ def test_falls_back_to_installment_price_when_no_full_payment_listed():
     no full-payment figure (empty cell) — the parser must use the installment
     price rather than silently dropping the row."""
     adapter = IstinyeAdapter()
-    fees = adapter.parse(FIXTURE.read_text())
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
     se_en = next(f for f in fees if f.program_name == "Software Engineering" and f.language == "English")
     assert se_en.fee_usd == 8000.0
 
