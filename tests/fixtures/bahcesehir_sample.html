@@ -1,8 +1,14 @@
-<!-- Approximation of int.bau.edu.tr's actual tuition-fees page structure as
-     observed 2026-07 — WordPress card links under /programs/. Real program
-     names and fees, hand-verified against the live page; structural markup
-     is a reasonable approximation since exact WordPress theme markup wasn't
-     directly inspectable from this sandbox (network-restricted). -->
+<!-- int.bau.edu.tr's tuition-fees page, verified against a live fetch
+     2026-07-16. Real cards are much more nested than this fixture (each is
+     an <a class="card">...<h5><div class="stretched-link">Name</div></h5>
+     <h6>Duration<br>$Price</h6>...</a>, not flat <span> siblings) — but this
+     doesn't affect parsing: scrapers/bahcesehir.py only ever calls
+     a.get_text(" ", strip=True) on the whole anchor, which flattens either
+     shape to the identical string regardless of nesting depth. The
+     simplified markup below is confirmed behaviorally equivalent to the
+     real page, not just a guess (an actual live-page bug — a structural
+     mismatch that changes the flattened text or breaks the regex — would
+     need the real nested markup here; this one doesn't). -->
 <html>
 <body>
 <h2>Graduate Programs</h2>
