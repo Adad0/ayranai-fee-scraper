@@ -45,6 +45,7 @@ from scrapers.istinye import IstinyeAdapter
 # the note there for why (IP-range blocking, not a code problem). The class
 # itself is untouched and fully correct; uncomment both lines to re-enable.
 # from scrapers.koc import KocAdapter
+from scrapers.ozyegin import OzyeginAdapter
 from scrapers.sabanci import SabanciAdapter
 from scrapers.uskudar import UskudarAdapter
 from scrapers.yeditepe import YeditepeAdapter
@@ -61,6 +62,7 @@ ADAPTERS = [
     AcibademAdapter(),
     SabanciAdapter(),
     YeditepeAdapter(),
+    OzyeginAdapter(),
     # KocAdapter(),  # commented out — see "Known blocked universities
     # (IP-range, not robots.txt)" in README.md. Confirmed 2026-07: both a
     # plain requests.get() (with a realistic browser User-Agent) and
@@ -106,6 +108,7 @@ UNIVERSITY_KEY_TO_CANONICAL_NAME = {
     "koc": "Koç Üniversitesi",
     "sabanci": "Sabancı Üniversitesi",
     "yeditepe": "Yeditepe Üniversitesi",
+    "ozyegin": "Özyeğin Üniversitesi",
 }
 
 DATA_DIR = Path(__file__).parent / "data"
