@@ -40,7 +40,11 @@ from scrapers.acibadem import AcibademAdapter
 from scrapers.bahcesehir import BahcesehirAdapter
 from scrapers.base import ScrapedFee
 from scrapers.istinye import IstinyeAdapter
-from scrapers.koc import KocAdapter
+
+# KocAdapter import commented out along with its ADAPTERS entry below — see
+# the note there for why (IP-range blocking, not a code problem). The class
+# itself is untouched and fully correct; uncomment both lines to re-enable.
+# from scrapers.koc import KocAdapter
 from scrapers.uskudar import UskudarAdapter
 
 # Loads a local .env file if present (for local/manual runs); a no-op in CI,
@@ -53,7 +57,17 @@ ADAPTERS = [
     BahcesehirAdapter(),
     UskudarAdapter(),
     AcibademAdapter(),
-    KocAdapter(),
+    # KocAdapter(),  # commented out — see "Known blocked universities
+    # (IP-range, not robots.txt)" in README.md. Confirmed 2026-07: both a
+    # plain requests.get() (with a realistic browser User-Agent) and
+    # Playwright headless Chromium get 403 Forbidden specifically from
+    # GitHub Actions' runner IPs, while the identical request succeeds from
+    # other networks — this is IP-range/datacenter WAF blocking, not a
+    # parsing bug or a robots.txt opt-out. scrapers/koc.py and its tests are
+    # untouched and fully correct; this is commented out (not deleted)
+    # because a known, understood failure every month isn't useful signal.
+    # Re-enable by uncommenting this line AND the import above once run
+    # from a different network path (proxy, self-hosted runner, etc.).
     # Add one line here per new university. That's the entire integration
     # surface for adding #6, #7, ... #44 — write the adapter file (see
     # scrapers/istinye.py, scrapers/bahcesehir.py, scrapers/uskudar.py,

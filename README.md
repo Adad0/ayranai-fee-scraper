@@ -46,6 +46,18 @@ Some universities' `robots.txt` explicitly disallows automated access to their s
 
 For these, the only legitimate path forward is a **permission-based approach** — e.g. contacting the university's international office to ask about an official data feed or API, or getting explicit written permission to scrape. Do not build a scraper that ignores their `robots.txt`.
 
+## Known blocked universities (IP-range, not robots.txt)
+
+**Koç University** (`international.ku.edu.tr`) — this is a *different* kind of block from the robots.txt cases above, and not an ethical opt-out. `robots.txt` allows access here; the site's WAF is blocking GitHub Actions' runner IP range specifically. Confirmed via dual-testing, 2026-07:
+
+- A plain `requests.get()` with a realistic browser `User-Agent`: 403 Forbidden.
+- Playwright headless Chromium (a real browser engine — real TLS handshake, JS execution, not just a header string): also 403 Forbidden, from the same GitHub Actions run.
+- The identical request succeeds from other networks (confirmed by hand, outside GitHub Actions).
+
+Two different HTTP clients hitting the same wall from the same network, while both succeed elsewhere, points to IP-range/datacenter blocking rather than a client-fingerprint check — a User-Agent or browser-engine swap can't fix that from within GitHub Actions.
+
+`scrapers/koc.py` and `tests/test_koc.py` remain in the repo, **unchanged and fully correct** — this is blocked-by-environment code, not dead code. `KocAdapter()` is commented out in `run_scrape.py`'s `ADAPTERS` list (see the comment there) so it doesn't produce a known, un-actionable failure in every monthly run. It's ready to work immediately if run from a different network path — a proxy, a self-hosted runner, or a different CI provider.
+
 ### Why tests use saved HTML fixtures instead of hitting live sites
 
 Two reasons: (1) tests should be fast and not depend on a university's website being up; (2) this avoids hammering a real university's server on every CI run. The fixtures are built from real, hand-verified page content (see each fixture file's header comment) — they're not synthetic placeholder data. A separate scheduled job (the actual monthly GitHub Action) is the real integration test against live pages.
