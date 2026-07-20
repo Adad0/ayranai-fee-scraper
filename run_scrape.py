@@ -47,6 +47,7 @@ from scrapers.istinye import IstinyeAdapter
 # from scrapers.koc import KocAdapter
 from scrapers.sabanci import SabanciAdapter
 from scrapers.uskudar import UskudarAdapter
+from scrapers.yeditepe import YeditepeAdapter
 
 # Loads a local .env file if present (for local/manual runs); a no-op in CI,
 # where SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY are real environment
@@ -59,6 +60,7 @@ ADAPTERS = [
     UskudarAdapter(),
     AcibademAdapter(),
     SabanciAdapter(),
+    YeditepeAdapter(),
     # KocAdapter(),  # commented out — see "Known blocked universities
     # (IP-range, not robots.txt)" in README.md. Confirmed 2026-07: both a
     # plain requests.get() (with a realistic browser User-Agent) and
@@ -103,6 +105,7 @@ UNIVERSITY_KEY_TO_CANONICAL_NAME = {
     "acibadem": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
     "koc": "Koç Üniversitesi",
     "sabanci": "Sabancı Üniversitesi",
+    "yeditepe": "Yeditepe Üniversitesi",
 }
 
 DATA_DIR = Path(__file__).parent / "data"

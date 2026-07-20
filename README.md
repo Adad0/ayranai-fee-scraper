@@ -70,6 +70,7 @@ A third category, distinct from both of the above: no robots.txt block, no WAF/I
 **Not published at all** (no PDF, no table, nothing to scrape in any form):
 
 - **Işık University** — the official tuition-fees page (`isikun.edu.tr/en/international/tuition-fees`) explicitly states fees are not published on the site, and directs applicants to email `international.admissions@isikun.edu.tr` instead. This isn't a technical block of any kind — the data genuinely doesn't exist in any public, scrapable form.
+- **MEF University** — fee data is only accessible through the private student information system (MEFSIS) after enrollment; no public fee schedule exists on the official site. Confirmed via a third-party source (`studyinturkiye.gov.tr`): "students can view the annual fee" only via MEFSIS login. Same category as Işık.
 
 ### Why tests use saved HTML fixtures instead of hitting live sites
 
