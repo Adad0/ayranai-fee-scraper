@@ -62,7 +62,13 @@ Two different HTTP clients hitting the same wall from the same network, while bo
 
 A third category, distinct from both of the above: no robots.txt block, no WAF/IP block — the fee data itself just isn't published anywhere this project can scrape.
 
-- **Kadir Has University** — the official tuition page links only to a PDF ([13_69088b66553ed.pdf](https://www.khas.edu.tr/wp-content/uploads/2025/11/13_69088b66553ed.pdf)); no HTML fee table exists on the page at all. This needs a PDF-text-extraction adapter type, not built yet — every adapter in this repo so far assumes an HTML page (`requests`/Playwright + BeautifulSoup), which has nothing to parse here.
+**PDF-only** (fee data exists, but only inside a PDF — needs a PDF-text-extraction adapter type, not built yet; every adapter in this repo so far assumes an HTML page (`requests`/Playwright + BeautifulSoup), which has nothing to parse on these):
+
+- **Kadir Has University** — the official tuition page links only to a PDF ([13_69088b66553ed.pdf](https://www.khas.edu.tr/wp-content/uploads/2025/11/13_69088b66553ed.pdf)); no HTML fee table exists on the page at all.
+- **İstanbul Medipol University** — official tuition data is published only as a PDF (linked from `mio.medipol.edu.tr/annual-tuitions-rates`, titled "2025-2026 ACADEMIC INTAKE INTERNATIONAL STUDENTS TUITION FEE LIST.pdf"). The HTML page itself contains only scholarship/policy prose, no fee table.
+
+**Not published at all** (no PDF, no table, nothing to scrape in any form):
+
 - **Işık University** — the official tuition-fees page (`isikun.edu.tr/en/international/tuition-fees`) explicitly states fees are not published on the site, and directs applicants to email `international.admissions@isikun.edu.tr` instead. This isn't a technical block of any kind — the data genuinely doesn't exist in any public, scrapable form.
 
 ### Why tests use saved HTML fixtures instead of hitting live sites
