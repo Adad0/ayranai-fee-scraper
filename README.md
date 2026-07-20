@@ -58,6 +58,13 @@ Two different HTTP clients hitting the same wall from the same network, while bo
 
 `scrapers/koc.py` and `tests/test_koc.py` remain in the repo, **unchanged and fully correct** — this is blocked-by-environment code, not dead code. `KocAdapter()` is commented out in `run_scrape.py`'s `ADAPTERS` list (see the comment there) so it doesn't produce a known, un-actionable failure in every monthly run. It's ready to work immediately if run from a different network path — a proxy, a self-hosted runner, or a different CI provider.
 
+## Known non-scrapable universities (fee data not published in structured/public form)
+
+A third category, distinct from both of the above: no robots.txt block, no WAF/IP block — the fee data itself just isn't published anywhere this project can scrape.
+
+- **Kadir Has University** — the official tuition page links only to a PDF ([13_69088b66553ed.pdf](https://www.khas.edu.tr/wp-content/uploads/2025/11/13_69088b66553ed.pdf)); no HTML fee table exists on the page at all. This needs a PDF-text-extraction adapter type, not built yet — every adapter in this repo so far assumes an HTML page (`requests`/Playwright + BeautifulSoup), which has nothing to parse here.
+- **Işık University** — the official tuition-fees page (`isikun.edu.tr/en/international/tuition-fees`) explicitly states fees are not published on the site, and directs applicants to email `international.admissions@isikun.edu.tr` instead. This isn't a technical block of any kind — the data genuinely doesn't exist in any public, scrapable form.
+
 ### Why tests use saved HTML fixtures instead of hitting live sites
 
 Two reasons: (1) tests should be fast and not depend on a university's website being up; (2) this avoids hammering a real university's server on every CI run. The fixtures are built from real, hand-verified page content (see each fixture file's header comment) — they're not synthetic placeholder data. A separate scheduled job (the actual monthly GitHub Action) is the real integration test against live pages.
