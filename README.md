@@ -66,11 +66,22 @@ A third category, distinct from both of the above: no robots.txt block, no WAF/I
 
 - **Kadir Has University** — the official tuition page links only to a PDF ([13_69088b66553ed.pdf](https://www.khas.edu.tr/wp-content/uploads/2025/11/13_69088b66553ed.pdf)); no HTML fee table exists on the page at all.
 - **İstanbul Medipol University** — official tuition data is published only as a PDF (linked from `mio.medipol.edu.tr/annual-tuitions-rates`, titled "2025-2026 ACADEMIC INTAKE INTERNATIONAL STUDENTS TUITION FEE LIST.pdf"). The HTML page itself contains only scholarship/policy prose, no fee table.
+- **Maltepe University** — official tuition data is published only as a PDF ([14072025080827141-Maltepe University 2025-2026 Academic Year Tuition Fees.pdf](https://www.maltepe.edu.tr/Content/Media/CkEditor/14072025080827141-Maltepe%20University%202025-2026%20Academic%20Year%20Tuition%20Fees.pdf)). No HTML fee table found anywhere on the site.
+- **Ibn Haldun University** — the official tuition-fees page (`international.ihu.edu.tr/en/tuition-fees`) contains only prose text and a "CLICK HERE" link to a PDF, confirmed by direct fetch — no table on the page itself. The visible page text notes it's for "2024-2025 Academic Year," which suggests the linked data may also be stale on top of being PDF-only.
 
 **Not published at all** (no PDF, no table, nothing to scrape in any form):
 
 - **Işık University** — the official tuition-fees page (`isikun.edu.tr/en/international/tuition-fees`) explicitly states fees are not published on the site, and directs applicants to email `international.admissions@isikun.edu.tr` instead. This isn't a technical block of any kind — the data genuinely doesn't exist in any public, scrapable form.
 - **MEF University** — fee data is only accessible through the private student information system (MEFSIS) after enrollment; no public fee schedule exists on the official site. Confirmed via a third-party source (`studyinturkiye.gov.tr`): "students can view the annual fee" only via MEFSIS login. Same category as Işık.
+
+**JS-driven calculators** (no static data at all — needs API reverse-engineering or full browser automation, a meaningfully bigger lift than any adapter built so far; not attempted yet):
+
+- **Beykent University** — the official "International Student Tuition Calculator" page (`beykent.edu.tr/en/exchange/international-students/international-student-tuition-calculator-`) is a dropdown-driven tool ("Choose Faculty" → "Choose Program" → fee displays dynamically). Confirmed by direct fetch: the raw HTML source contains only the empty dropdown UI, zero fee data present statically. Scraping this would require either reverse-engineering the AJAX/API call the dropdowns make, or full browser automation (Playwright, as used for Koç) simulating the dropdown selections one combination at a time — a distinct category from both the PDF-only and robots.txt-blocked cases above.
+
+**Investigated, no working page found** (not resolved — needs deeper manual site navigation in a future session):
+
+- **Doğuş University** — both previously-known URLs (`dogus.edu.tr/en/international/international-relations-office/tuition-fees` and `dogus.edu.tr/en/student/tuition-fees-and-payment/tuition-fees-for-international-students`) now return 404. The site appears to have been restructured since those were last indexed; no working replacement URL was found.
+- **Fenerbahçe University** — tuition fees appear to only be communicated via individualized acceptance letters, per the university's own International Student Handbook PDF. No public fee schedule page was found.
 
 ## Needs live verification before trusting
 
