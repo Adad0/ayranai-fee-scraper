@@ -1,14 +1,17 @@
 """
 Tests for the Ozyegin adapter -- covers a SIXTH distinct structural pattern:
-no <table> exists at all, program name + fee appear concatenated in a
-single text block ("Computer Engineering$25,000"), comma-thousands USD
-format (not the Turkish period-thousands format used elsewhere), and
-faculty headers detected by substring match rather than table structure.
+no <table> exists at all, program name and fee are on SEPARATE consecutive
+text blocks ("Computer Engineering" then "$25,000" as its own line, never
+concatenated), comma-thousands USD format (not the Turkish period-thousands
+format used elsewhere), and faculty headers detected by substring match
+rather than table structure.
 
-UNCERTAINTY FLAG: the exact live DOM structure could not be directly
-confirmed -- this fixture is a best-effort reconstruction. MUST be
-verified against a real GitHub Actions run before trusting any proposals
-this generates in production.
+Also covers a real trap on the live page: a "Scholarship Rate" preamble
+appears BEFORE the first faculty header, with its own bare "$X,XXX" lines
+that must NOT be captured as programs -- confirmed against a real fetch of
+the live page, not assumed. See scrapers/ozyegin.py's module docstring for
+the full story (an earlier version of this fixture wrongly assumed name
+and fee were concatenated into one string).
 """
 
 import pytest
@@ -49,9 +52,34 @@ def test_faculty_carried_forward_across_multiple_programs():
     assert names == {"Business Administration", "Management Information Systems", "Economics"}
 
 
+def test_preamble_scholarship_tiers_not_captured_as_programs():
+    """The 'Scholarship Rate' preamble (before any faculty header) has its
+    own bare '$X,XXX' lines ('40% scholarship' / '$15,000', an
+    accommodation-fee sentence / '$2,000') -- these must NOT show up as
+    programs. Program/fee pairing only applies once inside a real faculty
+    section (current_faculty is set)."""
+    adapter = OzyeginAdapter()
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
+    names = {f.program_name for f in fees}
+    assert "40% scholarship" not in names
+    assert not any(f.fee_usd == 15000.0 and f.faculty is None for f in fees)
+    assert not any(f.fee_usd == 2000.0 for f in fees)
+
+
+def test_trailing_prose_after_last_program_not_captured():
+    """After 'Aviation Management'/'$25,000', the page has three lines of
+    prose (scholarship-ineligibility note, a Euro-denominated flight-school
+    fee) before the next faculty header -- none of these are bare
+    '$X,XXX' USD lines, so none should produce a spurious ScrapedFee."""
+    adapter = OzyeginAdapter()
+    fees = adapter.parse(FIXTURE.read_text(encoding="utf-8"))
+    names = {f.program_name for f in fees}
+    assert not any("Ayjet" in n or "Scholarships are not applicable" in n for n in names)
+
+
 def test_raises_loudly_if_no_program_fee_pattern_found():
     adapter = OzyeginAdapter()
-    with pytest.raises(ValueError, match="no 'ProgramName\\$Amount' pattern"):
+    with pytest.raises(ValueError, match="no program-name-line-followed-by-bare-fee-line pattern"):
         adapter.parse("<html><body><p>Nothing relevant here</p></body></html>")
 
 
