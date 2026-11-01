@@ -2,1213 +2,1099 @@
   "acibadem::Anesthesia::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Anesthesia | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089852+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572494+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Audiometry::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Audiometry | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089925+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572694+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Biomedical Engineering::English": {
     "fee_usd": 15000.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF ENGINEERING AND NATURAL SCIENCES | Biomedical Engineering | English | $15.000",
-    "scraped_at": "2026-10-01T12:31:13.089554+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571711+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Biomedical Equipment Technology::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL | Biomedical Equipment Technology | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089803+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572358+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Computer Engineering::English": {
     "fee_usd": 15000.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF ENGINEERING AND NATURAL SCIENCES | Computer Engineering | English | $15.000",
-    "scraped_at": "2026-10-01T12:31:13.089572+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571756+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Computer Programming::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL | Computer Programming | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089788+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572319+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Culinary::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL | Culinary | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089770+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572277+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Dialysis::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Dialysis | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089867+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572535+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Electroneurophysioloy::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Electroneurophysioloy | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089881+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572574+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::First and Emergency Health::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | First and Emergency Health | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089910+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572654+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Healthcare Management::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HEALTH SCIENCES | Healthcare Management | Turkish | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089746+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572219+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Medical Data Processing Technician::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Medical Data Processing Technician | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.090058+00:00",
+    "scraped_at": "2026-11-01T12:43:43.573083+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Medical Documentation and Secretariat::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Medical Documentation and Secretariat | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.090014+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572936+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Medical Imagining Techniques::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Medical Imagining Techniques | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.090029+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572975+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Medical Laboratory Techniques::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Medical Laboratory Techniques | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.090043+00:00",
+    "scraped_at": "2026-11-01T12:43:43.573015+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Medicine::English": {
     "fee_usd": 36000.0,
     "raw_text": "UNDERGRADUATE DEGREE | SCHOOL OF MEDICINE | Medicine | English | $36.000",
-    "scraped_at": "2026-10-01T12:31:13.089500+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571574+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Molecular Biology and Genetics::English": {
     "fee_usd": 15000.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF ENGINEERING AND NATURAL SCIENCES | Molecular Biology and Genetics | English | $15.000",
-    "scraped_at": "2026-10-01T12:31:13.089589+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571799+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Nursing::English": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HEALTH SCIENCES | Nursing | English | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089677+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572021+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Nursing::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HEALTH SCIENCES | Nursing | Turkish | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089692+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572085+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Nutrition and Dietetics::English": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HEALTH SCIENCES | Nutrition and Dietetics | English | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089708+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572137+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Nutrition and Dietetics::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HEALTH SCIENCES | Nutrition and Dietetics | Turkish | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089722+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572178+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Operating Room Services::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Operating Room Services | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089836+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572448+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Opticianry::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Opticianry | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089939+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572735+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Oral and Dental Health::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Oral and Dental Health | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089821+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572406+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Orthopedic Prostheses and Ortheses::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Orthopedic Prostheses and Ortheses | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089954+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572776+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Pathology Laboratory Techniques::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Pathology Laboratory Techniques | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089968+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572817+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Pharmacy::English": {
     "fee_usd": 16000.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF PHARMACY | Pharmacy | English | $16.000",
-    "scraped_at": "2026-10-01T12:31:13.089531+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571654+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Physiotherapy and Rehabilitation::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HEALTH SCIENCES | Physiotherapy and Rehabilitation | Turkish | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089660+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571977+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Physiotherapy::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Physiotherapy | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089895+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572614+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Podology::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Podology | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089983+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572856+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Psychology::English": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HUMANITIES AND SOCIAL SCIENCES | Psychology | English | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089610+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571850+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Psychology::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HUMANITIES AND SOCIAL SCIENCES | Psychology | Turkish | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089625+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571889+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Radiotherapy::Turkish": {
     "fee_usd": 3500.0,
     "raw_text": "ASSOCIATE DEGREE | VOCATIONAL SCHOOL OF HEALTH SCIENCES | Radiotherapy | Turkish | $3.500",
-    "scraped_at": "2026-10-01T12:31:13.089997+00:00",
+    "scraped_at": "2026-11-01T12:43:43.572896+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "acibadem::Sociology::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "UNDERGRADUATE DEGREE | FACULTY OF HUMANITIES AND SOCIAL SCIENCES | Sociology | Turkish | $8.500",
-    "scraped_at": "2026-10-01T12:31:13.089641+00:00",
+    "scraped_at": "2026-11-01T12:43:43.571930+00:00",
     "source_url": "https://www.acibadem.edu.tr/en/international-office/international-students/admissions/undergraduate/tuition-fees"
   },
   "bahcesehir::Artificial Intelligence Engineering::any": {
     "fee_usd": 12000.0,
     "raw_text": "Artificial Intelligence Engineering 4 Years $12,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556271+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910211+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Conservatory::any": {
     "fee_usd": 8500.0,
     "raw_text": "Conservatory 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556337+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910358+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Gastronomy & Culinary Arts::any": {
     "fee_usd": 8500.0,
     "raw_text": "Gastronomy & Culinary Arts 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556331+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910344+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Master's Programs (Non-Thesis)::any": {
     "fee_usd": 12000.0,
     "raw_text": "Master's Programs (Non-Thesis) 1.5 Years $12,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556226+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910112+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Master's Programs (Thesis)::any": {
     "fee_usd": 14000.0,
     "raw_text": "Master's Programs (Thesis) 2 Years $14,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556218+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910095+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Master's in Clinical Psychology (Thesis)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Master's in Clinical Psychology (Thesis) 2 Years $18,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556210+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910075+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Master’s in Executive MBA::any": {
     "fee_usd": 18000.0,
     "raw_text": "Master’s in Executive MBA 2 Years $18,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556199+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910048+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Online Master's Degree Programs::any": {
     "fee_usd": 7000.0,
     "raw_text": "Online Master's Degree Programs 1.5 Years $7,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556176+00:00",
+    "scraped_at": "2026-11-01T12:43:40.909983+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::PhD Programs::any": {
     "fee_usd": 40000.0,
     "raw_text": "PhD Programs 4 Years $40,000 /whole program  [[basis=/whole program; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556233+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910128+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Pilotage::any": {
     "fee_usd": 9000.0,
     "raw_text": "Pilotage 4 Years $9,000 + €22,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556317+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910310+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Architecture & Design::any": {
     "fee_usd": 8500.0,
     "raw_text": "School of Architecture & Design 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556294+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910261+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Communication::any": {
     "fee_usd": 8500.0,
     "raw_text": "School of Communication 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556301+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910277+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Dentistry::any": {
     "fee_usd": 24000.0,
     "raw_text": "School of Dentistry 5 Years $24,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556248+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910163+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Economics, Administrative and Social Sciences::any": {
     "fee_usd": 8500.0,
     "raw_text": "School of Economics, Administrative and Social Sciences 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556287+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910246+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Educational Sciences::any": {
     "fee_usd": 8500.0,
     "raw_text": "School of Educational Sciences 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556308+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910291+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Engineering & Natural Sciences::any": {
     "fee_usd": 9000.0,
     "raw_text": "School of Engineering & Natural Sciences 4 Years $9,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556278+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910229+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Health Sciences::any": {
     "fee_usd": 8500.0,
     "raw_text": "School of Health Sciences 4 Years $8,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556263+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910194+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Law::any": {
     "fee_usd": 10000.0,
     "raw_text": "School of Law 4 Years $10,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556324+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910328+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Medicine::any": {
     "fee_usd": 28000.0,
     "raw_text": "School of Medicine 6 Years $28,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556241+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910144+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::School of Pharmacy::any": {
     "fee_usd": 15000.0,
     "raw_text": "School of Pharmacy 5 Years $15,000 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556255+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910179+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "bahcesehir::Vocational School of Health Sciences::any": {
     "fee_usd": 3500.0,
     "raw_text": "Vocational School of Health Sciences 2 Years $3,500 per year  [[basis=per year; NOTE: school/faculty-level rate, not per-department — see module docstring]]",
-    "scraped_at": "2026-10-01T12:31:10.556347+00:00",
+    "scraped_at": "2026-11-01T12:43:40.910373+00:00",
     "source_url": "https://int.bau.edu.tr/admission/tuition-fees/"
   },
   "istinye::Anatomy (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Anatomy (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011200+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928018+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Architectural Design (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Architectural Design (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011638+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929159+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Architectural Design (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Architectural Design (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011625+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929114+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Architecture (PhD)::Turkish": {
-    "fee_usd": 12500.0,
-    "raw_text": "Architecture (PhD) | 4 | 15 | Turkish | 12.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011827+00:00",
+    "fee_usd": 15000.0,
+    "raw_text": "Architecture (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-11-01T12:43:39.929847+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Architecture::English": {
     "fee_usd": 8000.0,
     "raw_text": "Architecture | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009805+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924572+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Artificial Intelligence Engineering (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Artificial Intelligence Engineering (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011705+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929360+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Artificial Intelligence Engineering (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Artificial Intelligence Engineering (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011692+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929321+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Biomedical Engineering::English": {
     "fee_usd": 8000.0,
     "raw_text": "Biomedical Engineering | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009977+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925002+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Biotechnology (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Biotechnology (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-11-01T12:43:39.930007+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration (PhD)::English": {
     "fee_usd": 15000.0,
     "raw_text": "Business Administration (PhD) | 5 | 15 | English | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010868+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927224+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Business Administration (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010855+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927190+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::English": {
     "fee_usd": 8000.0,
     "raw_text": "Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 1 | 30 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010488+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926255+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Business Administration (non-thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010459+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926184+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010473+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926219+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Business Administration (with thesis) / Focused Programs (Human Resource Management, Marketing, Finance) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010444+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926146+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Business Administration::English": {
     "fee_usd": 8000.0,
     "raw_text": "Business Administration | 4 | 100 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010064+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925252+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Cancer Biology and Pharmacology (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Cancer Biology and Pharmacology (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011120+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927817+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Chemistry (PhD)::English": {
     "fee_usd": 15000.0,
     "raw_text": "Chemistry (PhD) | 5 | 15 | English | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011857+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929782+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Chemistry::English": {
     "fee_usd": 8000.0,
     "raw_text": "Chemistry | 4 | 30 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010018+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925135+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Child Development::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Child Development | 4 | 20 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010250+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925724+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Cinema and Television (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Cinema and Television (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010637+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926627+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Clinical Anatomy (PhD)::Turkish": {
-    "fee_usd": 12500.0,
-    "raw_text": "Clinical Anatomy (PhD) | 4 | 15 | Turkish | 12.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011402+00:00",
+    "fee_usd": 15000.0,
+    "raw_text": "Clinical Anatomy (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-11-01T12:43:39.928924+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Clinical Psychology (non-thesis)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Clinical Psychology (non-thesis) | 1 | 30 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010581+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926491+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Communication Sciences (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Communication Sciences (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010895+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927290+00:00",
+    "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
+  },
+  "istinye::Computer Engineering (PhD)::Turkish": {
+    "fee_usd": 15000.0,
+    "raw_text": "Computer Engineering (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-11-01T12:43:39.929962+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Computer Engineering::English": {
     "fee_usd": 8000.0,
     "raw_text": "Computer Engineering | 4 | 70 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009921+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924863+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Computer Engineering::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Computer Engineering | 4 | 60 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009934+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924898+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Computer Engineering (non-thesis)::English": {
     "fee_usd": 8000.0,
     "raw_text": "Computer Engineering (non-thesis) | 1 | 30 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011679+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929288+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Computer Engineering (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Computer Engineering (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011666+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929251+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Cyber Security (non-thesis)::English": {
     "fee_usd": 8000.0,
     "raw_text": "Cyber Security (non-thesis) | 1 | 30 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010766+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926932+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Cyber Security (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Cyber Security (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010753+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926898+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Data Science (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Data Science (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010718+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926831+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Data Science (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Data Science (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010740+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926865+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Data Science (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Data Science (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010705+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926792+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Dentistry::English": {
     "fee_usd": 23275.0,
     "raw_text": "Dentistry | 5 | 60 | English | 24.500 $ | 23.275 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009620+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924138+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Dentistry::Turkish": {
     "fee_usd": 19000.0,
     "raw_text": "Dentistry | 5 | 45 | Turkish | 20.000 $ | 19.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009604+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924095+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Digital Game Design::English": {
     "fee_usd": 8000.0,
     "raw_text": "Digital Game Design | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009848+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924675+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Economics::English": {
     "fee_usd": 8000.0,
     "raw_text": "Economics | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010049+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925215+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Electrical and Electronics Engineering::English": {
     "fee_usd": 8000.0,
     "raw_text": "Electrical and Electronics Engineering | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009951+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924933+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Electrical-Electronics Engineering (PhD)::Turkish": {
-    "fee_usd": 12500.0,
-    "raw_text": "Electrical-Electronics Engineering (PhD) | 4 | 15 | Turkish | 12.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011840+00:00",
+    "fee_usd": 15000.0,
+    "raw_text": "Electrical-Electronics Engineering (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
+    "scraped_at": "2026-11-01T12:43:39.929907+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Electrical-Electronics Engineering (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Electrical-Electronics Engineering (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011783+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929523+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Electrical-Electronics Engineering (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Electrical-Electronics Engineering (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011770+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929490+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Engineering Management (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Engineering Management (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011757+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929457+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Engineering Management (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Engineering Management (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011744+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929425+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::English Interpretation and Translation::English": {
     "fee_usd": 8000.0,
     "raw_text": "English Interpretation and Translation | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009749+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924436+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::English Language and Literature::English": {
     "fee_usd": 8000.0,
     "raw_text": "English Language and Literature | 4 | 30 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009726+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924400+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Gastronomy and Culinary Arts (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Gastronomy and Culinary Arts (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010664+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926693+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Gastronomy and Culinary Arts (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Gastronomy and Culinary Arts (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010651+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926660+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Gastronomy and Culinary Arts::English": {
     "fee_usd": 8000.0,
     "raw_text": "Gastronomy and Culinary Arts | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009834+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924640+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Gastronomy and Culinary Arts::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Gastronomy and Culinary Arts | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009819+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924606+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Health Management (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Health Management (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010881+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927257+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Health Management (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Health Management (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010514+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926322+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Health Management (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Health Management (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010501+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926289+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Health Management::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Health Management | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010078+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925291+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Histology and Embryology (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Histology and Embryology (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011516+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928786+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Industrial Engineering::English": {
     "fee_usd": 8000.0,
     "raw_text": "Industrial Engineering | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009964+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924967+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Interior Architecture (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Interior Architecture (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011651+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929197+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Interior Architecture and Environmental Design::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Interior Architecture and Environmental Design | 4 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009779+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924514+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::International Relations::English": {
     "fee_usd": 8000.0,
     "raw_text": "International Relations | 4 | 40 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010105+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925360+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::International Trade and Business::English": {
     "fee_usd": 8000.0,
     "raw_text": "International Trade and Business | 4 | 80 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010118+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925393+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Logistics Management::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Logistics Management | 4 | 40 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010160+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925498+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Management Information Systems (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Management Information Systems (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010624+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926594+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Management Information Systems::English": {
     "fee_usd": 8000.0,
     "raw_text": "Management Information Systems | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010145+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925464+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Management Information Systems::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Management Information Systems | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010132+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925431+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Marketing (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Marketing (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010779+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926969+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Mathematics::English": {
     "fee_usd": 8000.0,
     "raw_text": "Mathematics | 4 | 10 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010004+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925100+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Mechanical Engineering::English": {
     "fee_usd": 8000.0,
     "raw_text": "Mechanical Engineering | 4 | 15 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009906+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924827+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Medical Biology and Genetics (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Medical Biology and Genetics (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011475+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928686+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Medical Biology and Genetics (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Medical Biology and Genetics (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011133+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927853+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Medicine::English": {
     "fee_usd": 27550.0,
     "raw_text": "Medicine | 6 | 85 | English | 29.000 $ | 27.550 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009574+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924004+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Medicine::Turkish": {
     "fee_usd": 21850.0,
     "raw_text": "Medicine | 6 | 84 | Turkish | 23.000 $ | 21.850 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009539+00:00",
+    "scraped_at": "2026-11-01T12:43:39.923931+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Midwifery (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Midwifery (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011544+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928859+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Midwifery (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Midwifery (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011051+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927650+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Midwifery::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Midwifery | 4 | 30 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010289+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925789+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Molecular Biology and Genetics (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Molecular Biology and Genetics (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011720+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929393+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Molecular Biology and Genetics::English": {
     "fee_usd": 8000.0,
     "raw_text": "Molecular Biology and Genetics | 4 | 70 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009990+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925059+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Molecular Oncology (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Molecular Oncology (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011503+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928754+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Neuroscience (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Neuroscience (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011557+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928892+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Neuroscience (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Neuroscience (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011105+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927784+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::New Media and Communication::English": {
     "fee_usd": 7000.0,
     "raw_text": "New Media and Communication | 4 | 60 | English | 7.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010205+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925611+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Nursing::English": {
     "fee_usd": 8000.0,
     "raw_text": "Nursing | 4 | 60 | English | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010348+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925920+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Nursing::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Nursing | 4 | 40 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010333+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925884+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Nutrition and Dietetics::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Nutrition and Dietetics | 4 | 30 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010237+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925690+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Nutrition and Dietetics (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Nutrition and Dietetics (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011490+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928721+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Nutrition and Dietetics (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Nutrition and Dietetics (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011174+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927952+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Nutrition and Dietetics (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Nutrition and Dietetics (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011160+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927920+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Obstetrics and Gynaecologic Nursing (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Obstetrics and Gynaecologic Nursing (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011531+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928819+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Obstetrics and Gynaecologic Nursing (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Obstetrics and Gynaecologic Nursing (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011039+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927618+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Obstetrics and Gynaecologic Nursing (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Obstetrics and Gynaecologic Nursing (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011025+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927585+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Occupational Health and Safety (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Occupational Health and Safety (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010611+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926561+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Pharmaceutical Chemistry (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Pharmaceutical Chemistry (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011421+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928500+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Pharmacy::English": {
     "fee_usd": 14250.0,
     "raw_text": "Pharmacy | 5 | 60 | English | 15.000 $ | 14.250 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009662+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924239+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Pharmacy::Turkish": {
     "fee_usd": 13300.0,
     "raw_text": "Pharmacy | 5 | 60 | Turkish | 14.000 $ | 13.300 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009646+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924202+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Physics (PhD)::English": {
     "fee_usd": 15000.0,
     "raw_text": "Physics (PhD) | 5 | 15 | English | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011870+00:00",
+    "scraped_at": "2026-11-01T12:43:39.929814+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Physiotherapy and Rehabilitation (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Physiotherapy and Rehabilitation (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011448+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928593+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Physiotherapy and Rehabilitation (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Physiotherapy and Rehabilitation (with thesis) | 2 | 15 | English | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011078+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927714+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Physiotherapy and Rehabilitation (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Physiotherapy and Rehabilitation (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011064+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927682+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Physiotherapy and Rehabilitation::English": {
     "fee_usd": 8000.0,
     "raw_text": "Physiotherapy and Rehabilitation | 4 | 60 | English | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010318+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925853+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Physiotherapy and Rehabilitation::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Physiotherapy and Rehabilitation | 4 | 60 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010304+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925821+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Political Science and International Relations (with thesis)::English": {
     "fee_usd": 8500.0,
     "raw_text": "Political Science and International Relations (with thesis) | 2 | 15 | English | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010542+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926389+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Political Science and International Relations (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Political Science and International Relations (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010528+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926355+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Political Science and Public Administration::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Political Science and Public Administration | 4 | 20 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010092+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925326+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Psychology (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Psychology (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010568+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926455+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Psychology (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Psychology (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010555+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926422+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Psychology::English": {
     "fee_usd": 8000.0,
     "raw_text": "Psychology | 4 | 50 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009697+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924324+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Psychology::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Psychology | 4 | 35 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009682+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924288+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Public Relations and Advertising::Turkish": {
     "fee_usd": 7000.0,
     "raw_text": "Public Relations and Advertising | 4 | 60 | Turkish | 7.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010192+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925577+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Radio, Television and Cinema::English": {
     "fee_usd": 7000.0,
     "raw_text": "Radio, Television and Cinema | 4 | 80 | English | 7.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010218+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925644+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Software Development::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Software Development | 4 | 60 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010031+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925169+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Software Engineering::English": {
     "fee_usd": 8000.0,
     "raw_text": "Software Engineering | 4 | 60 | English | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009893+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924789+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Software Engineering::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Software Engineering | 4 | 50 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009880+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924755+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Speech and Language Therapy::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Speech and Language Therapy | 4 | 30 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010266+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925756+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Speech and Language Therapy (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Speech and Language Therapy (PhD) | 5 | 15 | Turkish | 15.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011435+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928536+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Speech and Language Therapy (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Speech and Language Therapy (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011147+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927886+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Sports Physiotherapy (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Sports Physiotherapy (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011187+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927985+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Stem Cell and Tissue Engineering (PhD)::Turkish": {
     "fee_usd": 15000.0,
     "raw_text": "Stem Cell and Tissue Engineering (PhD) | 5 | 15 | Turkish | 15.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011462+00:00",
+    "scraped_at": "2026-11-01T12:43:39.928647+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Stem Cell and Tissue Engineering (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Stem Cell and Tissue Engineering (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.011092+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927750+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Surgical Disease Nursing (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Surgical Disease Nursing (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.011012+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927552+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Surgical Disease Nursing (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Surgical Disease Nursing (with thesis) | 2 | 15 | Turkish | 8.500 $ | Topkapı",
-    "scraped_at": "2026-10-01T12:31:03.010996+00:00",
+    "scraped_at": "2026-11-01T12:43:39.927518+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Textile and Fashion Design (non-thesis)::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Textile and Fashion Design (non-thesis) | 1 | 30 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010692+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926759+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Textile and Fashion Design (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Textile and Fashion Design (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010678+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926726+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Textile and Fashion Design::Turkish": {
     "fee_usd": 7000.0,
     "raw_text": "Textile and Fashion Design | 4 | 30 | Turkish | 7.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009861+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924708+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Turkish Language and Literature (with thesis)::Turkish": {
     "fee_usd": 8500.0,
     "raw_text": "Turkish Language and Literature (with thesis) | 2 | 15 | Turkish | 8.500 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010598+00:00",
+    "scraped_at": "2026-11-01T12:43:39.926524+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Turkish Language and Literature::Turkish": {
     "fee_usd": 8000.0,
     "raw_text": "Turkish Language and Literature | 4 | 10 | Turkish | 8.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.009712+00:00",
+    "scraped_at": "2026-11-01T12:43:39.924358+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
   "istinye::Visual Communication Design::Turkish": {
     "fee_usd": 7000.0,
     "raw_text": "Visual Communication Design | 4 | 20 | Turkish | 7.000 $ | Vadi İstanbul",
-    "scraped_at": "2026-10-01T12:31:03.010178+00:00",
+    "scraped_at": "2026-11-01T12:43:39.925544+00:00",
     "source_url": "https://international.istinye.edu.tr/en/quotas-and-tuition-fees"
   },
-  "ozyegin::Anthropology (in English)::any": {
+  "ozyegin::in English::any": {
     "fee_usd": 25000.0,
-    "raw_text": "Faculty of Social Sciences | Anthropology (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745592+00:00",
+    "raw_text": "Faculty of Social Sciences | in English | $25,000",
+    "scraped_at": "2026-11-01T12:43:46.458139+00:00",
     "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
   },
-  "ozyegin::Architecture (in English)::any": {
+  "ozyegin::in Turkish::any": {
     "fee_usd": 25000.0,
-    "raw_text": "Faculty of Architecture and Design | Architecture (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745571+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Artificial Intelligence and Data Engineering (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Engineering | Artificial Intelligence and Data Engineering (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745501+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Aviation Management (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Aviation and Space Sciences | Aviation Management (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745536+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Business Administration (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Business | Business Administration (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745544+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Civil Engineering (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Engineering | Civil Engineering (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745528+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Communication and Design (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Architecture and Design | Communication and Design (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745577+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Computer Engineering (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Engineering | Computer Engineering (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745511+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Economics (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Business | Economics (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745551+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Electrical and Electronics Engineering (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Engineering | Electrical and Electronics Engineering (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745516+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Gastronomy and Culinary Arts (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Applied Sciences | Gastronomy and Culinary Arts (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745563+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Hotel Management (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Applied Sciences | Hotel Management (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745567+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Industrial Design (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Architecture and Design | Industrial Design (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745574+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Industrial Engineering (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Engineering | Industrial Engineering (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745520+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Interior Architecture and Environmental Design (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Architecture and Design | Interior Architecture and Environmental Design (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745581+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::International Finance (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Business | International Finance (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745556+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::International Relations (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Social Sciences | International Relations (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745588+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::International Trade and Business (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Business | International Trade and Business (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745559+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Law (in Turkish)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Law | Law (in Turkish) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745596+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Management Information Systems (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Business | Management Information Systems (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745548+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Mechanical Engineering (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Engineering | Mechanical Engineering (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745524+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Professional Flight (in English)::any": {
-    "fee_usd": 16500.0,
-    "raw_text": "Faculty of Aviation and Space Sciences | Professional Flight (in English) | $16,500",
-    "scraped_at": "2026-10-01T12:31:16.745533+00:00",
-    "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
-  },
-  "ozyegin::Psychology (in English)::any": {
-    "fee_usd": 25000.0,
-    "raw_text": "Faculty of Social Sciences | Psychology (in English) | $25,000",
-    "scraped_at": "2026-10-01T12:31:16.745585+00:00",
+    "raw_text": "Faculty of Law | in Turkish | $25,000",
+    "scraped_at": "2026-11-01T12:43:46.458148+00:00",
     "source_url": "https://admissions.ozyegin.edu.tr/en/tuition-fees-and-scholarship/"
   },
   "sabanci::All Undergraduate Programs::any": {
     "fee_usd": 36500.0,
     "raw_text": "Annual Tuition Fee | 36500 USD",
-    "scraped_at": "2026-10-01T12:31:14.355643+00:00",
+    "scraped_at": "2026-11-01T12:43:44.663540+00:00",
     "source_url": "https://iro.sabanciuniv.edu/en/tuition-fee"
   },
   "uskudar::Addiction Consultancy and Rehabilitation (Turkish) / Non-Thesis::Turkish": {
@@ -2114,1207 +2000,1207 @@
   "yeditepe::Accounting and Auditing (Master’s Program) (Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Accounting and Auditing (Master’s Program) (Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452359+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202979+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Accounting and Finance (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Accounting and Finance (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452373+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203009+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Advertising Design and Communication (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Advertising Design and Communication (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451160+00:00",
+    "scraped_at": "2026-11-01T12:43:46.199968+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Agricultural Trade and Management (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Agricultural Trade and Management (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451182+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200020+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Agricultural Trade and Management (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Agricultural Trade and Management (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452384+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203055+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Analytical Chemistry in Master Program (Non-Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Analytical Chemistry in Master Program (Non-Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452398+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203086+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Animation Design (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Animation Design (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452410+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203113+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Anthropology (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Anthropology (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451196+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200079+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Anthropology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Anthropology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452422+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203140+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Anthropology (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Anthropology (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452433+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203168+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Architectural Studies (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Architectural Studies (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452444+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203199+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Architecture (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Architecture (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451208+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200110+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Architecture (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Architecture (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452455+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203226+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Arts and Cultural Management (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Arts and Cultural Management (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451220+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200140+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Arts and Culture Management (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Arts and Culture Management (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452466+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203252+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Atatürk's Principles and History of the Turkish Republic (Master's Program) (Thesis/Non-Thesis)::any": {
     "fee_usd": 4000.0,
     "raw_text": "Atatürk's Principles and History of the Turkish Republic (Master's Program) (Thesis/Non-Thesis) | 4.000$",
-    "scraped_at": "2026-10-01T12:31:16.452477+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203279+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Biomedical Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Biomedical Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451231+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200173+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Biomedical Engineering (Master’s Program) (Thesis / Non-Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Biomedical Engineering (Master’s Program) (Thesis / Non-Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452489+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203304+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Biotechnology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Biotechnology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452500+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203330+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Biotechnology (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Biotechnology (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452511+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203357+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Business Administration (Bachelor - DDUP University of North Carolina Wilmington)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Business Administration (Bachelor - DDUP University of North Carolina Wilmington) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451242+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200200+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Business Administration (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Business Administration (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451253+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200233+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Business Administration (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Business Administration (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452522+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203383+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Business Administration (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Business Administration (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452533+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203409+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Business School::any": {
     "fee_usd": 18000.0,
     "raw_text": "Business School | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451264+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200266+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Chemical Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Chemical Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451275+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200297+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Chemical Engineering (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Chemical Engineering (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452544+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203434+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Chemical Engineering (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Chemical Engineering (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452555+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203460+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Civil Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Civil Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451285+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200324+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Civil Engineering (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Civil Engineering (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452566+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203485+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Clinical Pharmacy (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Clinical Pharmacy (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452578+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203512+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Clinical Psychology (Master’s Program) (Thesis)::any": {
     "fee_usd": 6000.0,
     "raw_text": "Clinical Psychology (Master’s Program) (Thesis) | 6.000$",
-    "scraped_at": "2026-10-01T12:31:16.452589+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203538+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Cognitive Sciences (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Cognitive Sciences (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452600+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203563+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Comparative Literature (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Comparative Literature (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452611+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203588+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Computer Engineering (Bachelor)::any": {
     "fee_usd": 30000.0,
     "raw_text": "Computer Engineering (Bachelor) | 30.000$",
-    "scraped_at": "2026-10-01T12:31:16.451296+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200351+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Computer Engineering (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Computer Engineering (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452622+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203612+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Computer Engineering (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Computer Engineering (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452633+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203637+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Computer Science and Information Technologies (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Computer Science and Information Technologies (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452645+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203663+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Cosmetology (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Cosmetology (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452656+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203689+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Curriculum and Instruction (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Curriculum and Instruction (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452669+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203716+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Curriculum and lnstruction (Master’s Program) (Thesis/Non-Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Curriculum and lnstruction (Master’s Program) (Thesis/Non-Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452680+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203742+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Data Science (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Data Science (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452691+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203767+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Dentomaxillofacial Radiology (Doctoral Program)::any": {
     "fee_usd": 17000.0,
     "raw_text": "Dentomaxillofacial Radiology (Doctoral Program) | 17.000$",
-    "scraped_at": "2026-10-01T12:31:16.452702+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203793+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Dentomaxillofacial Radiology (Master’s Program) (Thesis)::any": {
     "fee_usd": 17000.0,
     "raw_text": "Dentomaxillofacial Radiology (Master’s Program) (Thesis) | 17.000$",
-    "scraped_at": "2026-10-01T12:31:16.452713+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203818+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Design and Innovation for Sustainable Food Systems (Master’s Program) (Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Design and Innovation for Sustainable Food Systems (Master’s Program) (Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452724+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203844+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Doctoral Program in English Literature::any": {
     "fee_usd": 5000.0,
     "raw_text": "Doctoral Program in English Literature | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452741+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203869+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Drug and Cosmetic Production Technologies (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Drug and Cosmetic Production Technologies (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452753+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203903+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Economics (Bachelor - DDUP Huron University College)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Economics (Bachelor - DDUP Huron University College) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451318+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200398+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Economics (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Economics (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451329+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200426+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Economics (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Economics (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452764+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203930+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Economics (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Economics (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452774+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203959+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Educational Administration and Supervision (Master’s Program) (Thesis/Non-Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Educational Administration and Supervision (Master’s Program) (Thesis/Non-Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452785+00:00",
+    "scraped_at": "2026-11-01T12:43:46.203986+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Electrical and Electronics Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Electrical and Electronics Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451339+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200453+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Electrical and Electronics Engineering (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Electrical and Electronics Engineering (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452796+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204012+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Electrical and Electronics Engineering (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Electrical and Electronics Engineering (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452808+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204058+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Electronic Commerce and Management (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Electronic Commerce and Management (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451350+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200479+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Elementary Mathematics Education Program::any": {
     "fee_usd": 16000.0,
     "raw_text": "Elementary Mathematics Education Program | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451360+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200506+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Endodontics (Master’s Program) (Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Endodontics (Master’s Program) (Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.452820+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204088+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::English Language Education (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "English Language Education (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452841+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204141+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::English Language Education (Master’s Program) (Thesis/Non-Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "English Language Education (Master’s Program) (Thesis/Non-Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452852+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204167+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::English Language Teaching Program::any": {
     "fee_usd": 16000.0,
     "raw_text": "English Language Teaching Program | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451382+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200559+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::English Language and Literature (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "English Language and Literature (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451371+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200533+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::English Language and Literature (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "English Language and Literature (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452831+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204115+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::European Studies (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 4000.0,
     "raw_text": "European Studies (Master's Program) (Thesis-Non Thesis) | 4.000$",
-    "scraped_at": "2026-10-01T12:31:16.452863+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204193+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Executive Business Administration (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Executive Business Administration (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452874+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204220+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Communication::any": {
     "fee_usd": 18000.0,
     "raw_text": "Faculty of Communication | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451393+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200585+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Computer and Information Sciences::any": {
     "fee_usd": 20000.0,
     "raw_text": "Faculty of Computer and Information Sciences | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451403+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200609+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Dentistry::any": {
     "fee_usd": 73000.0,
     "raw_text": "Faculty of Dentistry | 73.000$",
-    "scraped_at": "2026-10-01T12:31:16.451413+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200634+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Education::any": {
     "fee_usd": 16000.0,
     "raw_text": "Faculty of Education | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451424+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200658+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Law::any": {
     "fee_usd": 20000.0,
     "raw_text": "Faculty of Law | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451434+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200683+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Medicine::any": {
     "fee_usd": 45000.0,
     "raw_text": "Faculty of Medicine | 45.000$",
-    "scraped_at": "2026-10-01T12:31:16.451445+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200708+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Faculty of Pharmacy::any": {
     "fee_usd": 24000.0,
     "raw_text": "Faculty of Pharmacy | 24.000$",
-    "scraped_at": "2026-10-01T12:31:16.451456+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200734+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Financial Economics (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Financial Economics (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452885+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204245+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Financial Economics (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Financial Economics (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452901+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204270+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Food Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Food Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451467+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200759+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Gastronomy and Culinary Arts (Bachelor)::any": {
     "fee_usd": 24000.0,
     "raw_text": "Gastronomy and Culinary Arts (Bachelor) | 24.000$",
-    "scraped_at": "2026-10-01T12:31:16.451478+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200784+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Gastronomy and Culinary Culture (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Gastronomy and Culinary Culture (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452912+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204295+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Genetics and Bioengineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Genetics and Bioengineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451489+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200823+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Graphic Design (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Graphic Design (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451499+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200866+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Graphic Design (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Graphic Design (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452923+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204319+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Graphic Design (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Graphic Design (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452934+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204344+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Guidance and Counseling (Master’s Program) (Thesis - Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Guidance and Counseling (Master’s Program) (Thesis - Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452945+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204369+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Guidance and Psychological Counseling (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Guidance and Psychological Counseling (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451510+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200901+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Health Care Management (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Health Care Management (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452956+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204394+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Health Management in Emergency And Disasters (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Health Management in Emergency And Disasters (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452967+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204418+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Histology and Embryology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Histology and Embryology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452978+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204441+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Histology and Embryology (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Histology and Embryology (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.452989+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204468+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::History (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "History (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451520+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200929+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::History (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "History (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453000+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204494+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::History (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "History (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453011+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204520+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Human Resources Management (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Human Resources Management (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453023+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204545+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Industrial Design (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Industrial Design (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451530+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200955+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Industrial Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Industrial Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451541+00:00",
+    "scraped_at": "2026-11-01T12:43:46.200984+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Industrial and System Engineerings (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Industrial and System Engineerings (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453035+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204570+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Industrial and Systems Engineering (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Industrial and Systems Engineering (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453045+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204595+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Information Security Technology (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Information Security Technology (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451551+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201101+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Information Systems and Technologies (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Information Systems and Technologies (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451561+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201140+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Interaction Design Program (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Interaction Design Program (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453056+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204632+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Interior Architecture (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Interior Architecture (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451572+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201171+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Business Administration (Master’s Program - German) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "International Business Administration (Master’s Program - German) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453067+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204659+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Business Administration in German (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "International Business Administration in German (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451582+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201199+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Business and Trade (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "International Business and Trade (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451593+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201225+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Finance (Bachelor - DDUP King's University College)::any": {
     "fee_usd": 18000.0,
     "raw_text": "International Finance (Bachelor - DDUP King's University College) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451605+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201252+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Finance (Bachelor - DDUP State University of New York at New Paltz)::any": {
     "fee_usd": 18000.0,
     "raw_text": "International Finance (Bachelor - DDUP State University of New York at New Paltz) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451615+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201278+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Finance (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "International Finance (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451626+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201305+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Relations (Master’s Program) (Thesis French)::any": {
     "fee_usd": 5000.0,
     "raw_text": "International Relations (Master’s Program) (Thesis French) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453078+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204685+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Trade and Logistics Management (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "International Trade and Logistics Management (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453089+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204710+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::International Trade and Logistics Management (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "International Trade and Logistics Management (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453100+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204736+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Journalism (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Journalism (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451636+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201331+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Journalism (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Journalism (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453112+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204763+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Law (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Law (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451647+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201357+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Local Authorities and Governance (Master’s Program) (Thesis/Non-Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Local Authorities and Governance (Master’s Program) (Thesis/Non-Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453134+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204816+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Logistics Management (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Logistics Management (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451657+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201383+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Management Information Systems (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Management Information Systems (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451667+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201409+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Management Information Systems (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Management Information Systems (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453145+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204844+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Materials Science and Nanotechnology Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Materials Science and Nanotechnology Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451679+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201435+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Materials and Nanotechnology Engineering (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Materials and Nanotechnology Engineering (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453158+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204872+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Materials and Nanotechnology Engineering (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Materials and Nanotechnology Engineering (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453169+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204898+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Mathematics (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Mathematics (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451690+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201460+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Mathematics (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Mathematics (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453179+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204923+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Mathematics (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Mathematics (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453190+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204949+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Mechanical Engineering (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Mechanical Engineering (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451701+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201485+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Mechanical Engineering (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Mechanical Engineering (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453201+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204978+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Mechanical Engineering (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Mechanical Engineering (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453212+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205005+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Media Studies (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Media Studies (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453235+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205078+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Media and Communication Management (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Media and Communication Management (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453224+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205048+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Medical Microbiology (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Medical Microbiology (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453246+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205104+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Medical Physics (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Medical Physics (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453257+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205130+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Medicine (Bachelor)::any": {
     "fee_usd": 40000.0,
     "raw_text": "Medicine (Bachelor) | 40.000$",
-    "scraped_at": "2026-10-01T12:31:16.451712+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201510+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Modern Turkish Literature (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Modern Turkish Literature (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453269+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205156+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Molecular Medicine (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Molecular Medicine (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453280+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205188+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Molecular Medicine (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Molecular Medicine (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453292+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205214+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Myology (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Myology (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453303+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205239+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Neuroscience (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Neuroscience (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453316+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205264+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Nursing (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Nursing (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451722+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201536+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Nursing (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Nursing (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453327+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205290+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Nutrition and Dietetics (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Nutrition and Dietetics (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451740+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201560+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Nutrition and Dietetics (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Nutrition and Dietetics (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453340+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205315+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Occupational Safety and Health (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Occupational Safety and Health (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453351+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205340+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Oral and Maxillofacial Surgery (Master’s Program) (Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Oral and Maxillofacial Surgery (Master’s Program) (Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.453363+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205364+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Oral lmplantology (Master’s Program) (Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Oral lmplantology (Master’s Program) (Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.453376+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205390+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Orthodontics (Master’s Program) (Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Orthodontics (Master’s Program) (Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.453387+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205416+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pedodontics (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Pedodontics (Master's Program) (Thesis-Non Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.453397+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205442+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Periodontology (Master’s Program) (Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Periodontology (Master’s Program) (Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.453408+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205466+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmaceutical Chemistry (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmaceutical Chemistry (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453419+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205492+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmaceutical Chemistry (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmaceutical Chemistry (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453430+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205521+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmaceutical Toxicology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmaceutical Toxicology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453440+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205547+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmaceutical Toxicology (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmaceutical Toxicology (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453451+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205572+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmacoeconomics and Pharmacoepidemiology (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmacoeconomics and Pharmacoepidemiology (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453462+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205598+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmacognosy (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmacognosy (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453473+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205623+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Pharmacology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Pharmacology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453484+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205651+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Philosophy (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Philosophy (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451752+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201585+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Philosophy (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Philosophy (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453495+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205677+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Philosophy (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Philosophy (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453506+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205702+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physics (Bachelor - DDUP Coe College)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Physics (Bachelor - DDUP Coe College) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451762+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201615+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physics (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Physics (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451773+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201641+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physics (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Physics (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453517+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205731+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physics (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Physics (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453527+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205757+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physiology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Physiology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453538+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205782+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physiology (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Physiology (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453549+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205808+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physiopathology (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Physiopathology (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453560+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205832+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physiotheraphy and Rehabilitation (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Physiotheraphy and Rehabilitation (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453571+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205858+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Physiotherapy and Rehabilitation (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Physiotherapy and Rehabilitation (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451784+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201667+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Phytotheraphy (Master's Program) (Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Phytotheraphy (Master's Program) (Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453582+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205884+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Plastic Arts (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Plastic Arts (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453592+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205909+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Plastic Arts and Painting (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Plastic Arts and Painting (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451794+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201693+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Plastic Arts and Painting (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Plastic Arts and Painting (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453603+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205934+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Political Science and International Relations (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Political Science and International Relations (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451805+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201718+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Political Science and International Relations (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Political Science and International Relations (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453614+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205959+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Political Science and International Relations (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Political Science and International Relations (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453625+00:00",
+    "scraped_at": "2026-11-01T12:43:46.205984+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Political Science and International Relations in French (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Political Science and International Relations in French (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451815+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201744+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Private Law (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Private Law (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453636+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206011+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Private Law (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Private Law (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453647+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206054+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Psychology (Bachelor)::any": {
     "fee_usd": 21000.0,
     "raw_text": "Psychology (Bachelor) | 21.000$",
-    "scraped_at": "2026-10-01T12:31:16.451825+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201773+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Public Administration (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Public Administration (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451836+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201799+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Public Health (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Public Health (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453658+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206083+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Public Law (Doctoral Program)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Public Law (Doctoral Program) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453670+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206109+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Public Law (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Public Law (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453681+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206135+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Public Relations and Publicity (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Public Relations and Publicity (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451846+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201825+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Public Relations and Publicity (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Public Relations and Publicity (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453692+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206164+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Radio, Television and Cinema (Master's Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Radio, Television and Cinema (Master's Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453702+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206190+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Radio, Television and Film Studies (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Radio, Television and Film Studies (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451856+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201851+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Restorative Dentistry (Master’s Program) (Thesis)::any": {
     "fee_usd": 25000.0,
     "raw_text": "Restorative Dentistry (Master’s Program) (Thesis) | 25.000$",
-    "scraped_at": "2026-10-01T12:31:16.453713+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206216+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Russian Language and Literature (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Russian Language and Literature (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451867+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201877+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Sociology (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Sociology (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451878+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201902+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Sociology (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Sociology (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453726+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206241+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Software Development (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Software Development (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451888+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201927+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Special Education Teaching (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Special Education Teaching (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451898+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201951+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Sports Physiotheraphy (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Sports Physiotheraphy (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453743+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206267+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Sustainable Energy (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Sustainable Energy (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453783+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206292+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Textile and Fashion Design (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Textile and Fashion Design (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451909+00:00",
+    "scraped_at": "2026-11-01T12:43:46.201980+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Theatre (Bachelor - Acting)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Theatre (Bachelor - Acting) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451919+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202006+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Theatre (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Theatre (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453794+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206317+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Tourism Management (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Tourism Management (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451930+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202049+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Translation and Interpreting Studies (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Translation and Interpreting Studies (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451940+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202078+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Turkish Language and Literature (Bachelor)::any": {
     "fee_usd": 16000.0,
     "raw_text": "Turkish Language and Literature (Bachelor) | 16.000$",
-    "scraped_at": "2026-10-01T12:31:16.451950+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202105+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Urban Design and Landscape Architecture (Bachelor)::any": {
     "fee_usd": 20000.0,
     "raw_text": "Urban Design and Landscape Architecture (Bachelor) | 20.000$",
-    "scraped_at": "2026-10-01T12:31:16.451963+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202131+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Urban Design and Landscape Architecture (Master’s Program) (Thesis-Non Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Urban Design and Landscape Architecture (Master’s Program) (Thesis-Non Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453806+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206342+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Visual Communication Design (Bachelor)::any": {
     "fee_usd": 18000.0,
     "raw_text": "Visual Communication Design (Bachelor) | 18.000$",
-    "scraped_at": "2026-10-01T12:31:16.451973+00:00",
+    "scraped_at": "2026-11-01T12:43:46.202156+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::Visual Communication Design (Master's Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "Visual Communication Design (Master's Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453818+00:00",
+    "scraped_at": "2026-11-01T12:43:46.206367+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   },
   "yeditepe::lnstructional Technologies (Master’s Program) (Thesis)::any": {
     "fee_usd": 5000.0,
     "raw_text": "lnstructional Technologies (Master’s Program) (Thesis) | 5.000$",
-    "scraped_at": "2026-10-01T12:31:16.453123+00:00",
+    "scraped_at": "2026-11-01T12:43:46.204791+00:00",
     "source_url": "https://yeditepe.edu.tr/en/prospective-students/fees"
   }
 }
